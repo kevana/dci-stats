@@ -1,0 +1,2852 @@
+{
+  "corps": [
+    "Kingsmen",
+    "Blue Stars",
+    "Santa Clara Vanguard",
+    "27th Lancers",
+    "Argonne Rebels",
+    "Troopers",
+    "Des Plaines Vanguard",
+    "Kilties",
+    "The Cavaliers",
+    "Muchachos",
+    "Bridgemen",
+    "Bleu Raeders",
+    "Madison Scouts",
+    "Black Knights",
+    "Commodores",
+    "De La Salle Oaklands",
+    "Blue Devils",
+    "Purple Lancers",
+    "Phantom Regiment",
+    "Oakland Crusaders",
+    "Royal Crusaders",
+    "Garfield Cadets",
+    "Seneca Optimists",
+    "Freelancers",
+    "Guardsmen",
+    "Crossmen",
+    "Spirit of Atlanta",
+    "North Star",
+    "Sky Ryders",
+    "Suncoast Sound",
+    "Velvet Knights",
+    "Star of Indiana",
+    "Bluecoats",
+    "Cadets of Bergen County",
+    "Dutch Boy",
+    "Blue Knights",
+    "Glassmen",
+    "Colts",
+    "Magic of Orlando",
+    "Carolina Crown",
+    "Boston Crusaders",
+    "The Cadets",
+    "Spirit",
+    "Seattle Cascades",
+    "Spirit from JSU",
+    "Holy Name Cadets"
+  ],
+  "events": {
+    "1972": [
+      {
+        "city": "Whitewater",
+        "date": "1972-08-18T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Kingsmen",
+            "place": "1",
+            "score": "88.100"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "2",
+            "score": "87.650"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "3",
+            "score": "87.350"
+          },
+          {
+            "corps": "27th Lancers",
+            "place": "4",
+            "score": "86.000"
+          },
+          {
+            "corps": "Argonne Rebels",
+            "place": "5",
+            "score": "82.900"
+          },
+          {
+            "corps": "Troopers",
+            "place": "6",
+            "score": "81.950"
+          },
+          {
+            "corps": "Des Plaines Vanguard",
+            "place": "7",
+            "score": "81.250"
+          },
+          {
+            "corps": "Kilties",
+            "place": "8",
+            "score": "81.200"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "9",
+            "score": "79.450"
+          },
+          {
+            "corps": "Muchachos",
+            "place": "10",
+            "score": "78.450"
+          },
+          {
+            "corps": "Bridgemen",
+            "place": "11",
+            "score": "75.400"
+          },
+          {
+            "corps": "Bleu Raeders",
+            "place": "12",
+            "score": "73.950"
+          }
+        ],
+        "state": "WI"
+      }
+    ],
+    "1973": [
+      {
+        "city": "Whitewater",
+        "date": "1973-08-17T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "1",
+            "score": "88.650"
+          },
+          {
+            "corps": "Troopers",
+            "place": "2",
+            "score": "86.150"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "3",
+            "score": "85.500"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "4",
+            "score": "83.550"
+          },
+          {
+            "corps": "Kilties",
+            "place": "5",
+            "score": "82.950"
+          },
+          {
+            "corps": "Kingsmen",
+            "place": "6",
+            "score": "82.650"
+          },
+          {
+            "corps": "27th Lancers",
+            "place": "7",
+            "score": "79.400"
+          },
+          {
+            "corps": "Muchachos",
+            "place": "8",
+            "score": "79.300"
+          },
+          {
+            "corps": "Bridgemen",
+            "place": "9",
+            "score": "78.650"
+          },
+          {
+            "corps": "Black Knights",
+            "place": "10",
+            "score": "75.750"
+          },
+          {
+            "corps": "Argonne Rebels",
+            "place": "11",
+            "score": "73.150"
+          },
+          {
+            "corps": "Commodores",
+            "place": "12",
+            "score": "72.250"
+          }
+        ],
+        "state": "WI"
+      }
+    ],
+    "1974": [
+      {
+        "city": "Ithaca",
+        "date": "1974-08-17T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "1",
+            "score": "89.500"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "2",
+            "score": "88.850"
+          },
+          {
+            "corps": "Kingsmen",
+            "place": "3",
+            "score": "88.550"
+          },
+          {
+            "corps": "Muchachos",
+            "place": "4",
+            "score": "86.950"
+          },
+          {
+            "corps": "Troopers",
+            "place": "5",
+            "score": "85.650"
+          },
+          {
+            "corps": "Kilties",
+            "place": "6",
+            "score": "85.250"
+          },
+          {
+            "corps": "De La Salle Oaklands",
+            "place": "7",
+            "score": "79.950"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "8",
+            "score": "79.550"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "9",
+            "score": "79.150"
+          },
+          {
+            "corps": "Purple Lancers",
+            "place": "10",
+            "score": "77.150"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "11",
+            "score": "76.250"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "12",
+            "score": "75.700"
+          }
+        ],
+        "state": "NY"
+      }
+    ],
+    "1975": [
+      {
+        "city": "Philadelphia",
+        "date": "1975-08-16T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "92.500"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "2",
+            "score": "91.000"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "3",
+            "score": "88.600"
+          },
+          {
+            "corps": "27th Lancers",
+            "place": "4",
+            "score": "88.050"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "5",
+            "score": "87.500"
+          },
+          {
+            "corps": "Oakland Crusaders",
+            "place": "6",
+            "score": "86.000"
+          },
+          {
+            "corps": "Kilties",
+            "place": "7",
+            "score": "85.300"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "8",
+            "score": "82.950"
+          },
+          {
+            "corps": "Royal Crusaders",
+            "place": "9",
+            "score": "82.400"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "10",
+            "score": "81.300"
+          },
+          {
+            "corps": "Garfield Cadets",
+            "place": "11",
+            "score": "80.550"
+          },
+          {
+            "corps": "Troopers",
+            "place": "12",
+            "score": "76.200"
+          }
+        ],
+        "state": "PA"
+      }
+    ],
+    "1976": [
+      {
+        "city": "Philadelphia",
+        "date": "1976-08-21T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "92.700"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "2",
+            "score": "90.700"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "3",
+            "score": "89.500"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "4",
+            "score": "87.750"
+          },
+          {
+            "corps": "27th Lancers",
+            "place": "5",
+            "score": "85.000"
+          },
+          {
+            "corps": "Bridgemen",
+            "place": "6",
+            "score": "84.900"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "7",
+            "score": "84.300"
+          },
+          {
+            "corps": "Oakland Crusaders",
+            "place": "8",
+            "score": "82.100"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "9",
+            "score": "80.350"
+          },
+          {
+            "corps": "Seneca Optimists",
+            "place": "10",
+            "score": "78.800"
+          },
+          {
+            "corps": "Freelancers",
+            "place": "11",
+            "score": "77.900"
+          },
+          {
+            "corps": "Guardsmen",
+            "place": "12",
+            "score": "74.250"
+          }
+        ],
+        "state": "PA"
+      }
+    ],
+    "1977": [
+      {
+        "city": "Denver",
+        "date": "1977-08-19T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "92.050"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "90.300"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "3",
+            "score": "89.850"
+          },
+          {
+            "corps": "27th Lancers",
+            "place": "4",
+            "score": "87.450"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "5",
+            "score": "87.300"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "6",
+            "score": "84.300"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "7",
+            "score": "83.000"
+          },
+          {
+            "corps": "Freelancers",
+            "place": "8",
+            "score": "82.400"
+          },
+          {
+            "corps": "Seneca Optimists",
+            "place": "8",
+            "score": "82.400"
+          },
+          {
+            "corps": "Kilties",
+            "place": "10",
+            "score": "81.800"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "11",
+            "score": "81.300"
+          },
+          {
+            "corps": "Garfield Cadets",
+            "place": "12",
+            "score": "78.150"
+          }
+        ],
+        "state": "CO"
+      }
+    ],
+    "1978": [
+      {
+        "city": "Denver",
+        "date": "1978-08-18T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "1",
+            "score": "91.550"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "91.450"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "3",
+            "score": "91.200"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "4",
+            "score": "89.550"
+          },
+          {
+            "corps": "Bridgemen",
+            "place": "5",
+            "score": "87.650"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "6",
+            "score": "86.500"
+          },
+          {
+            "corps": "27th Lancers",
+            "place": "7",
+            "score": "84.750"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "8",
+            "score": "84.600"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "9",
+            "score": "82.450"
+          },
+          {
+            "corps": "North Star",
+            "place": "10",
+            "score": "81.350"
+          },
+          {
+            "corps": "Guardsmen",
+            "place": "11",
+            "score": "80.750"
+          },
+          {
+            "corps": "Kilties",
+            "place": "12",
+            "score": "77.250"
+          }
+        ],
+        "state": "CO"
+      }
+    ],
+    "1979": [
+      {
+        "city": "Birmingham",
+        "date": "1979-08-18T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "93.550"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "92.750"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "3",
+            "score": "90.700"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "4",
+            "score": "89.900"
+          },
+          {
+            "corps": "27th Lancers",
+            "place": "5",
+            "score": "86.400"
+          },
+          {
+            "corps": "Bridgemen",
+            "place": "6",
+            "score": "86.200"
+          },
+          {
+            "corps": "Guardsmen",
+            "place": "7",
+            "score": "85.300"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "8",
+            "score": "84.500"
+          },
+          {
+            "corps": "North Star",
+            "place": "9",
+            "score": "83.300"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "10",
+            "score": "83.050"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "11",
+            "score": "78.500"
+          },
+          {
+            "corps": "Troopers",
+            "place": "12",
+            "score": "77.900"
+          }
+        ],
+        "state": "AL"
+      }
+    ],
+    "1980": [
+      {
+        "city": "Birmingham",
+        "date": "1980-08-16T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "90.600"
+          },
+          {
+            "corps": "27th Lancers",
+            "place": "2",
+            "score": "90.250"
+          },
+          {
+            "corps": "Bridgemen",
+            "place": "3",
+            "score": "90.050"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "4",
+            "score": "89.800"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "88.450"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "6",
+            "score": "87.050"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "7",
+            "score": "85.600"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "8",
+            "score": "81.900"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "9",
+            "score": "77.400"
+          },
+          {
+            "corps": "Garfield Cadets",
+            "place": "10",
+            "score": "76.450"
+          },
+          {
+            "corps": "North Star",
+            "place": "11",
+            "score": "74.050"
+          },
+          {
+            "corps": "Guardsmen",
+            "place": "12",
+            "score": "72.900"
+          }
+        ],
+        "state": "AL"
+      }
+    ],
+    "1981": [
+      {
+        "city": "Montreal",
+        "date": "1981-08-22T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "1",
+            "score": "94.000"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "93.700"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "3",
+            "score": "92.600"
+          },
+          {
+            "corps": "27th Lancers",
+            "place": "4",
+            "score": "91.900"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "90.850"
+          },
+          {
+            "corps": "Bridgemen",
+            "place": "6",
+            "score": "90.800"
+          },
+          {
+            "corps": "Garfield Cadets",
+            "place": "7",
+            "score": "89.400"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "8",
+            "score": "86.500"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "9",
+            "score": "83.850"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "10",
+            "score": "82.800"
+          },
+          {
+            "corps": "Freelancers",
+            "place": "11",
+            "score": "78.250"
+          },
+          {
+            "corps": "Troopers",
+            "place": "12",
+            "score": "78.100"
+          }
+        ],
+        "state": "QU"
+      }
+    ],
+    "1982": [
+      {
+        "city": "Montreal",
+        "date": "1982-08-21T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "95.250"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "2",
+            "score": "93.550"
+          },
+          {
+            "corps": "Garfield Cadets",
+            "place": "3",
+            "score": "92.250"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "4",
+            "score": "92.150"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "5",
+            "score": "90.750"
+          },
+          {
+            "corps": "27th Lancers",
+            "place": "6",
+            "score": "88.650"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "7",
+            "score": "88.050"
+          },
+          {
+            "corps": "Bridgemen",
+            "place": "8",
+            "score": "86.150"
+          },
+          {
+            "corps": "Freelancers",
+            "place": "9",
+            "score": "85.800"
+          },
+          {
+            "corps": "Sky Ryders",
+            "place": "10",
+            "score": "83.100"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "11",
+            "score": "81.950"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "12",
+            "score": "81.650"
+          }
+        ],
+        "state": "QU"
+      }
+    ],
+    "1983": [
+      {
+        "city": "Miami",
+        "date": "1983-08-20T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Garfield Cadets",
+            "place": "1",
+            "score": "94.400"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "93.800"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "3",
+            "score": "92.750"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "4",
+            "score": "91.450"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "5",
+            "score": "86.450"
+          },
+          {
+            "corps": "Suncoast Sound",
+            "place": "6",
+            "score": "86.050"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "7",
+            "score": "83.600"
+          },
+          {
+            "corps": "Freelancers",
+            "place": "8",
+            "score": "81.650"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "9",
+            "score": "80.550"
+          },
+          {
+            "corps": "27th Lancers",
+            "place": "10",
+            "score": "79.650"
+          },
+          {
+            "corps": "Bridgemen",
+            "place": "11",
+            "score": "77.700"
+          },
+          {
+            "corps": "Sky Ryders",
+            "place": "12",
+            "score": "73.750"
+          }
+        ],
+        "state": "FL"
+      }
+    ],
+    "1984": [
+      {
+        "city": "Atlanta",
+        "date": "1984-08-18T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Garfield Cadets",
+            "place": "1",
+            "score": "98.000"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "97.900"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "3",
+            "score": "97.400"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "4",
+            "score": "95.600"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "5",
+            "score": "94.600"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "6",
+            "score": "93.100"
+          },
+          {
+            "corps": "Suncoast Sound",
+            "place": "7",
+            "score": "92.000"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "8",
+            "score": "89.700"
+          },
+          {
+            "corps": "Freelancers",
+            "place": "9",
+            "score": "88.800"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "10",
+            "score": "86.300"
+          },
+          {
+            "corps": "27th Lancers",
+            "place": "11",
+            "score": "85.600"
+          },
+          {
+            "corps": "Velvet Knights",
+            "place": "12",
+            "score": "83.200"
+          }
+        ],
+        "state": "GA"
+      }
+    ],
+    "1985": [
+      {
+        "city": "Madison",
+        "date": "1985-08-17T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Garfield Cadets",
+            "place": "1",
+            "score": "98.400"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "2",
+            "score": "97.200"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "3",
+            "score": "97.100"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "4",
+            "score": "95.000"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "5",
+            "score": "94.100"
+          },
+          {
+            "corps": "Suncoast Sound",
+            "place": "6",
+            "score": "92.700"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "7",
+            "score": "91.000"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "8",
+            "score": "90.100"
+          },
+          {
+            "corps": "Troopers",
+            "place": "9",
+            "score": "86.700"
+          },
+          {
+            "corps": "Star of Indiana",
+            "place": "10",
+            "score": "85.800"
+          },
+          {
+            "corps": "Velvet Knights",
+            "place": "11",
+            "score": "85.300"
+          },
+          {
+            "corps": "Freelancers",
+            "place": "12",
+            "score": "83.200"
+          }
+        ],
+        "state": "WI"
+      }
+    ],
+    "1986": [
+      {
+        "city": "Madison",
+        "date": "1986-08-16T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "98.400"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "2",
+            "score": "97.000"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "3",
+            "score": "95.700"
+          },
+          {
+            "corps": "Garfield Cadets",
+            "place": "4",
+            "score": "95.600"
+          },
+          {
+            "corps": "Suncoast Sound",
+            "place": "5",
+            "score": "94.800"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "6",
+            "score": "94.100"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "7",
+            "score": "91.300"
+          },
+          {
+            "corps": "Star of Indiana",
+            "place": "8",
+            "score": "90.500"
+          },
+          {
+            "corps": "Sky Ryders",
+            "place": "9",
+            "score": "87.000"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "10",
+            "score": "85.000"
+          },
+          {
+            "corps": "Troopers",
+            "place": "11",
+            "score": "83.500"
+          },
+          {
+            "corps": "Velvet Knights",
+            "place": "12",
+            "score": "82.600"
+          }
+        ],
+        "state": "WI"
+      }
+    ],
+    "1987": [
+      {
+        "city": "Madison",
+        "date": "1987-08-15T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Garfield Cadets",
+            "place": "1",
+            "score": "97.900"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "2",
+            "score": "97.800"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "3",
+            "score": "94.700"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "4",
+            "score": "94.400"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "94.300"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "6",
+            "score": "90.400"
+          },
+          {
+            "corps": "Star of Indiana",
+            "place": "7",
+            "score": "90.000"
+          },
+          {
+            "corps": "Velvet Knights",
+            "place": "8",
+            "score": "90.000"
+          },
+          {
+            "corps": "Suncoast Sound",
+            "place": "9",
+            "score": "88.800"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "10",
+            "score": "87.600"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "11",
+            "score": "85.700"
+          },
+          {
+            "corps": "Sky Ryders",
+            "place": "12",
+            "score": "81.900"
+          }
+        ],
+        "state": "WI"
+      }
+    ],
+    "1988": [
+      {
+        "city": "Kansas City",
+        "date": "1988-08-20T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "97.100"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "2",
+            "score": "96.900"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "3",
+            "score": "96.300"
+          },
+          {
+            "corps": "Garfield Cadets",
+            "place": "4",
+            "score": "96.100"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "5",
+            "score": "95.100"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "6",
+            "score": "93.500"
+          },
+          {
+            "corps": "Star of Indiana",
+            "place": "7",
+            "score": "92.800"
+          },
+          {
+            "corps": "Velvet Knights",
+            "place": "8",
+            "score": "90.600"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "9",
+            "score": "89.300"
+          },
+          {
+            "corps": "Suncoast Sound",
+            "place": "10",
+            "score": "89.100"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "11",
+            "score": "86.700"
+          },
+          {
+            "corps": "Sky Ryders",
+            "place": "12",
+            "score": "85.100"
+          }
+        ],
+        "state": "MO"
+      }
+    ],
+    "1989": [
+      {
+        "city": "Kansas City",
+        "date": "1989-08-19T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "1",
+            "score": "98.800"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "98.400"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "3",
+            "score": "97.200"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "4",
+            "score": "95.900"
+          },
+          {
+            "corps": "Cadets of Bergen County",
+            "place": "5",
+            "score": "95.600"
+          },
+          {
+            "corps": "Star of Indiana",
+            "place": "6",
+            "score": "95.300"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "7",
+            "score": "93.600"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "8",
+            "score": "90.300"
+          },
+          {
+            "corps": "Suncoast Sound",
+            "place": "9",
+            "score": "88.000"
+          },
+          {
+            "corps": "Freelancers",
+            "place": "10",
+            "score": "87.300"
+          },
+          {
+            "corps": "Velvet Knights",
+            "place": "11",
+            "score": "87.000"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "12",
+            "score": "84.000"
+          }
+        ],
+        "state": "MO"
+      }
+    ],
+    "1990": [
+      {
+        "city": "Buffalo",
+        "date": "1990-08-18T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Cadets of Bergen County",
+            "place": "1",
+            "score": "97.700"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "2",
+            "score": "96.900"
+          },
+          {
+            "corps": "Star of Indiana",
+            "place": "3",
+            "score": "96.500"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "4",
+            "score": "95.300"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "4",
+            "score": "95.300"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "6",
+            "score": "94.000"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "7",
+            "score": "89.600"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "8",
+            "score": "89.200"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "9",
+            "score": "88.700"
+          },
+          {
+            "corps": "Velvet Knights",
+            "place": "10",
+            "score": "87.300"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "11",
+            "score": "83.400"
+          },
+          {
+            "corps": "Dutch Boy",
+            "place": "12",
+            "score": "82.200"
+          }
+        ],
+        "state": "NY"
+      }
+    ],
+    "1991": [
+      {
+        "city": "Dallas",
+        "date": "1991-08-17T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Star of Indiana",
+            "place": "1",
+            "score": "97.000"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "2",
+            "score": "96.300"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "3",
+            "score": "95.400"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "94.400"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "5",
+            "score": "93.800"
+          },
+          {
+            "corps": "Cadets of Bergen County",
+            "place": "6",
+            "score": "93.700"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "7",
+            "score": "92.000"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "8",
+            "score": "89.700"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "9",
+            "score": "87.700"
+          },
+          {
+            "corps": "Freelancers",
+            "place": "10",
+            "score": "86.400"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "11",
+            "score": "84.400"
+          },
+          {
+            "corps": "Sky Ryders",
+            "place": "12",
+            "score": "82.900"
+          }
+        ],
+        "state": "TX"
+      }
+    ],
+    "1992": [
+      {
+        "city": "Madison",
+        "date": "1992-08-15T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "The Cavaliers",
+            "place": "1",
+            "score": "97.500"
+          },
+          {
+            "corps": "Cadets of Bergen County",
+            "place": "2",
+            "score": "97.000"
+          },
+          {
+            "corps": "Star of Indiana",
+            "place": "3",
+            "score": "96.700"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "4",
+            "score": "95.400"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "5",
+            "score": "93.700"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "6",
+            "score": "92.200"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "7",
+            "score": "91.800"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "8",
+            "score": "91.500"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "9",
+            "score": "90.000"
+          },
+          {
+            "corps": "Velvet Knights",
+            "place": "10",
+            "score": "86.600"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "11",
+            "score": "84.600"
+          },
+          {
+            "corps": "Freelancers",
+            "place": "12",
+            "score": "83.100"
+          }
+        ],
+        "state": "WI"
+      }
+    ],
+    "1993": [
+      {
+        "city": "Jackson",
+        "date": "1993-08-21T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Cadets of Bergen County",
+            "place": "1",
+            "score": "97.400"
+          },
+          {
+            "corps": "Star of Indiana",
+            "place": "2",
+            "score": "97.300"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "3",
+            "score": "96.200"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "4",
+            "score": "95.100"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "5",
+            "score": "94.000"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "6",
+            "score": "91.900"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "6",
+            "score": "90.400"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "8",
+            "score": "89.600"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "9",
+            "score": "87.200"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "10",
+            "score": "85.000"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "11",
+            "score": "82.800"
+          },
+          {
+            "corps": "Colts",
+            "place": "12",
+            "score": "81.600"
+          }
+        ],
+        "state": "MS"
+      }
+    ],
+    "1994": [
+      {
+        "city": "Foxboro",
+        "date": "1994-08-20T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "98.400"
+          },
+          {
+            "corps": "Cadets of Bergen County",
+            "place": "2",
+            "score": "97.700"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "3",
+            "score": "96.200"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "4",
+            "score": "95.700"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "5",
+            "score": "92.300"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "6",
+            "score": "92.200"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "7",
+            "score": "88.400"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "7",
+            "score": "88.400"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "9",
+            "score": "84.300"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "10",
+            "score": "83.900"
+          },
+          {
+            "corps": "Magic of Orlando",
+            "place": "11",
+            "score": "81.500"
+          },
+          {
+            "corps": "Colts",
+            "place": "12",
+            "score": "80.100"
+          }
+        ],
+        "state": "MA"
+      }
+    ],
+    "1995": [
+      {
+        "city": "Buffalo",
+        "date": "1995-08-12T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "The Cavaliers",
+            "place": "1",
+            "score": "98.300"
+          },
+          {
+            "corps": "Cadets of Bergen County",
+            "place": "2",
+            "score": "97.200"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "3",
+            "score": "96.700"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "4",
+            "score": "95.400"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "94.100"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "6",
+            "score": "91.900"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "7",
+            "score": "89.500"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "8",
+            "score": "88.300"
+          },
+          {
+            "corps": "Colts",
+            "place": "9",
+            "score": "86.300"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "10",
+            "score": "85.100"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "11",
+            "score": "82.800"
+          },
+          {
+            "corps": "Magic of Orlando",
+            "place": "12",
+            "score": "82.400"
+          }
+        ],
+        "state": "NY"
+      }
+    ],
+    "1996": [
+      {
+        "city": "Orlando",
+        "date": "1996-08-17T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "97.400"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "1",
+            "score": "97.400"
+          },
+          {
+            "corps": "Cadets of Bergen County",
+            "place": "3",
+            "score": "96.900"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "4",
+            "score": "93.800"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "5",
+            "score": "92.300"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "6",
+            "score": "91.500"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "7",
+            "score": "86.300"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "8",
+            "score": "85.500"
+          },
+          {
+            "corps": "Magic of Orlando",
+            "place": "8",
+            "score": "85.500"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "10",
+            "score": "82.100"
+          },
+          {
+            "corps": "Colts",
+            "place": "11",
+            "score": "81.300"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "12",
+            "score": "80.700"
+          }
+        ],
+        "state": "FL"
+      }
+    ],
+    "1997": [
+      {
+        "city": "Orlando",
+        "date": "1997-08-16T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "98.400"
+          },
+          {
+            "corps": "Cadets of Bergen County",
+            "place": "2",
+            "score": "97.600"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "3",
+            "score": "96.900"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "4",
+            "score": "94.200"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "5",
+            "score": "93.900"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "6",
+            "score": "93.000"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "7",
+            "score": "92.800"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "8",
+            "score": "90.000"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "9",
+            "score": "88.200"
+          },
+          {
+            "corps": "Magic of Orlando",
+            "place": "10",
+            "score": "85.700"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "11",
+            "score": "85.600"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "12",
+            "score": "85.000"
+          }
+        ],
+        "state": "FL"
+      }
+    ],
+    "1998": [
+      {
+        "city": "Orlando",
+        "date": "1998-08-15T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Cadets of Bergen County",
+            "place": "1",
+            "score": "98.400"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "2",
+            "score": "97.900"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "3",
+            "score": "97.700"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "4",
+            "score": "96.200"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "5",
+            "score": "92.800"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "6",
+            "score": "91.900"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "7",
+            "score": "91.400"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "8",
+            "score": "90.400"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "9",
+            "score": "89.500"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "10",
+            "score": "87.100"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "11",
+            "score": "85.700"
+          },
+          {
+            "corps": "Colts",
+            "place": "12",
+            "score": "85.300"
+          }
+        ],
+        "state": "FL"
+      }
+    ],
+    "1999": [
+      {
+        "city": "Madison",
+        "date": "1999-08-14T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "98.400"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "1",
+            "score": "98.400"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "3",
+            "score": "97.000"
+          },
+          {
+            "corps": "Cadets of Bergen County",
+            "place": "4",
+            "score": "96.400"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "5",
+            "score": "93.700"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "6",
+            "score": "93.400"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "7",
+            "score": "92.500"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "8",
+            "score": "91.200"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "9",
+            "score": "88.600"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "10",
+            "score": "87.000"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "11",
+            "score": "86.300"
+          },
+          {
+            "corps": "Colts",
+            "place": "12",
+            "score": "86.000"
+          }
+        ],
+        "state": "WI"
+      }
+    ],
+    "2000": [
+      {
+        "city": "College Park",
+        "date": "2000-08-12T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "The Cavaliers",
+            "place": "1",
+            "score": "97.650"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "97.650"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "3",
+            "score": "96.900"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "94.700"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "5",
+            "score": "92.350"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "6",
+            "score": "92.000"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "7",
+            "score": "90.650"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "8",
+            "score": "90.350"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "9",
+            "score": "88.550"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "10",
+            "score": "85.500"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "11",
+            "score": "85.150"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "12",
+            "score": "84.400"
+          }
+        ],
+        "state": "MD"
+      }
+    ],
+    "2001": [
+      {
+        "city": "Buffalo",
+        "date": "2001-08-11T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "The Cavaliers",
+            "place": "1",
+            "score": "98.350"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "97.600"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "2",
+            "score": "97.600"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "95.350"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "5",
+            "score": "94.300"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "6",
+            "score": "91.900"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "7",
+            "score": "91.150"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "8",
+            "score": "90.750"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "9",
+            "score": "88.800"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "10",
+            "score": "86.950"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "11",
+            "score": "86.550"
+          },
+          {
+            "corps": "Colts",
+            "place": "12",
+            "score": "84.900"
+          }
+        ],
+        "state": "NY"
+      }
+    ],
+    "2002": [
+      {
+        "city": "Madison",
+        "date": "2002-08-10T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "The Cavaliers",
+            "place": "1",
+            "score": "99.150"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "97.300"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "96.750"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "95.650"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "5",
+            "score": "92.400"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "92.400"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "7",
+            "score": "91.500"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "8",
+            "score": "91.000"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "9",
+            "score": "89.100"
+          },
+          {
+            "corps": "Spirit",
+            "place": "10",
+            "score": "85.450"
+          },
+          {
+            "corps": "Magic of Orlando",
+            "place": "11",
+            "score": "84.850"
+          },
+          {
+            "corps": "Seattle Cascades",
+            "place": "12",
+            "score": "84.050"
+          }
+        ],
+        "state": "WI"
+      }
+    ],
+    "2003": [
+      {
+        "city": "Orlando",
+        "date": "2003-08-09T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "98.800"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "2",
+            "score": "97.250"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "97.100"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "4",
+            "score": "94.750"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "5",
+            "score": "94.700"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "6",
+            "score": "90.950"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "7",
+            "score": "90.750"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "8",
+            "score": "89.550"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "9",
+            "score": "86.900"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "10",
+            "score": "86.650"
+          },
+          {
+            "corps": "Magic of Orlando",
+            "place": "11",
+            "score": "85.600"
+          },
+          {
+            "corps": "Spirit",
+            "place": "12",
+            "score": "84.400"
+          }
+        ],
+        "state": "FL"
+      }
+    ],
+    "2004": [
+      {
+        "city": "Denver",
+        "date": "2004-08-07T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "The Cavaliers",
+            "place": "1",
+            "score": "98.700"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "98.525"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "3",
+            "score": "96.825"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "4",
+            "score": "95.600"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "93.575"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "6",
+            "score": "92.125"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "7",
+            "score": "91.225"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "8",
+            "score": "91.175"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "9",
+            "score": "90.525"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "10",
+            "score": "87.600"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "11",
+            "score": "87.425"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "12",
+            "score": "85.950"
+          }
+        ],
+        "state": "CO"
+      }
+    ],
+    "2005": [
+      {
+        "city": "Foxboro",
+        "date": "2005-08-13T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "99.150"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "2",
+            "score": "97.625"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "3",
+            "score": "96.825"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "4",
+            "score": "95.250"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "5",
+            "score": "94.450"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "6",
+            "score": "92.625"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "7",
+            "score": "90.725"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "8",
+            "score": "88.650"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "9",
+            "score": "88.400"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "10",
+            "score": "88.225"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "11",
+            "score": "87.700"
+          },
+          {
+            "corps": "Spirit",
+            "place": "12",
+            "score": "86.075"
+          }
+        ],
+        "state": "MA"
+      }
+    ],
+    "2006": [
+      {
+        "city": "Madison",
+        "date": "2006-08-12T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "The Cavaliers",
+            "place": "1",
+            "score": "97.200"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "96.850"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "3",
+            "score": "96.550"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "4",
+            "score": "93.175"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "5",
+            "score": "93.075"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "6",
+            "score": "92.350"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "7",
+            "score": "90.125"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "8",
+            "score": "89.975"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "9",
+            "score": "87.700"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "10",
+            "score": "87.325"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "11",
+            "score": "86.000"
+          },
+          {
+            "corps": "Spirit",
+            "place": "12",
+            "score": "84.825"
+          }
+        ],
+        "state": "WI"
+      }
+    ],
+    "2007": [
+      {
+        "city": "Pasadena",
+        "date": "2007-08-11T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "98.000"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "2",
+            "score": "97.025"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "3",
+            "score": "96.350"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "4",
+            "score": "94.850"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "5",
+            "score": "94.175"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "6",
+            "score": "94.150"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "7",
+            "score": "94.050"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "8",
+            "score": "90.275"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "9",
+            "score": "89.100"
+          },
+          {
+            "corps": "Colts",
+            "place": "10",
+            "score": "86.150"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "11",
+            "score": "85.750"
+          },
+          {
+            "corps": "Spirit from JSU",
+            "place": "12",
+            "score": "84.500"
+          }
+        ],
+        "state": "CA"
+      }
+    ],
+    "2008": [
+      {
+        "city": "Bloomington",
+        "date": "2008-08-09T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Phantom Regiment",
+            "place": "1",
+            "score": "98.125"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "98.100"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "3",
+            "score": "97.325"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "4",
+            "score": "96.800"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "5",
+            "score": "94.750"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "6",
+            "score": "93.175"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "7",
+            "score": "93.025"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "8",
+            "score": "90.425"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "9",
+            "score": "88.250"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "10",
+            "score": "87.275"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "11",
+            "score": "87.200"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "12",
+            "score": "85.225"
+          }
+        ],
+        "state": "IN"
+      }
+    ],
+    "2009": [
+      {
+        "city": "Indianapolis",
+        "date": "2009-08-08T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "99.050"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "2",
+            "score": "97.500"
+          },
+          {
+            "corps": "Holy Name Cadets",
+            "place": "3",
+            "score": "97.200"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "4",
+            "score": "96.150"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "5",
+            "score": "95.650"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "6",
+            "score": "93.150"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "7",
+            "score": "90.700"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "8",
+            "score": "90.050"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "9",
+            "score": "89.900"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "10",
+            "score": "87.750"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "11",
+            "score": "86.450"
+          },
+          {
+            "corps": "Troopers",
+            "place": "12",
+            "score": "85.100"
+          }
+        ],
+        "state": "IN"
+      }
+    ],
+    "2010": [
+      {
+        "city": "Indianapolis",
+        "date": "2010-08-14T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "98.900"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "2",
+            "score": "97.750"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "3",
+            "score": "96.400"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "4",
+            "score": "95.950"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "5",
+            "score": "95.100"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "6",
+            "score": "93.150"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "7",
+            "score": "92.000"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "8",
+            "score": "91.900"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "9",
+            "score": "89.350"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "10",
+            "score": "88.950"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "11",
+            "score": "87.100"
+          },
+          {
+            "corps": "Glassmen",
+            "place": "12",
+            "score": "85.800"
+          }
+        ],
+        "state": "IN"
+      }
+    ],
+    "2011": [
+      {
+        "city": "Indianapolis",
+        "date": "2011-08-13T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "98.350"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "97.800"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "3",
+            "score": "96.850"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "4",
+            "score": "95.300"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "95.050"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "6",
+            "score": "92.200"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "7",
+            "score": "92.050"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "8",
+            "score": "90.650"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "9",
+            "score": "89.200"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "10",
+            "score": "87.550"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "11",
+            "score": "86.200"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "12",
+            "score": "85.350"
+          }
+        ],
+        "state": "IN"
+      }
+    ]
+  }
+}
