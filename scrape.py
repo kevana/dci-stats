@@ -14,36 +14,45 @@ dthandler = lambda obj: (
 
 allYearsEvents = {}
 corps = []
+locations = []
 params = {}
 
 for year in range(1972, 2012):
     thisYear = {}
     params['year'] = year
-    r = requests.get('http://www.dci.org/scores/archives/index.cfm', params=params)
+    r = requests.get('http://www.dci.org/scores/archives/index.cfm',
+                     params=params)
     if r.status_code != 200:
         raise IOError('Unable to retrieve page for year %s' % year)
     soup = BeautifulSoup(r.text)
-    scoresTable = soup.find_all('table')[2].\
-                       find_all('table')[2].\
-                       find_all('table')[2]
+    scoresTable = (soup.find_all('table')[2].
+                   find_all('table')[2].
+                   find_all('table')[2])
 
-    infoHeader = soup.find_all('table')[2].\
-                find_all('table')[2].\
-                find('h3')
-    cleanInfo = [item.strip() for item in infoHeader.text.split('\r\n') if item.strip()]
+    infoHeader = (soup.find_all('table')[2].
+                  find_all('table')[2].
+                  find('h3'))
+    infoList = [item.strip() for item in list(infoHeader.strings)]
 
-    # "Friday, August 18, 1972"
-    thisYear['date'] = datetime.strptime(cleanInfo[0], '%A, %B %d, %Y')
-    thisYear['city'] = cleanInfo[1].split(', ')[0]
-    thisYear['state'] = cleanInfo[1].split(', ')[1]
-    thisYear['name'] = cleanInfo[2]
+    thisYear['date'] = datetime.strptime(infoList[0], '%A, %B %d, %Y')
+    thisYear['name'] = infoList[2]
 
-    rows = scoresTable.findChildren('tr')[2:]  # First two rows are headers
+    loc = infoList[1].rsplit(' ', 1)
+    thisYear['city'] = loc[0].rstrip(',\n\r\t ')
+    thisYear['state'] = loc[1]
 
+    if infoList[1] not in locations:
+        locations.append(infoList[1])
+
+    # First two rows are headers
+    rows = scoresTable.findChildren('tr')[2:]
     yearResultsList = []
     for row in rows:
         columns = row.findChildren('td')
         cleanColumns = [col.text.strip() for col in columns]
+
+        if len(cleanColumns) < 3:
+            break  # Some events have Exhibition/International class labels
 
         result = {}
         result['place'] = cleanColumns[0]
@@ -58,11 +67,12 @@ for year in range(1972, 2012):
     print('Finished processing year %s' % year)
 
 finalData = {'corps': corps,
-            'events': allYearsEvents}
+             'events': allYearsEvents,
+             'locations': locations}
 
 # Write all results to a file
-with open('DCI-data.json', 'w') as outFile:
+with open('DCI-finals-1972-2011.json', 'w') as outFile:
     outFile.write(json.dumps(finalData, sort_keys=True, indent=2, default=dthandler))
 
-with open('DCI-data-min.json', 'w') as outFile:
+with open('DCI-finals-1972-2011.min.json', 'w') as outFile:
     outFile.write(json.dumps(finalData, sort_keys=True, separators=(',', ':'), default=dthandler))

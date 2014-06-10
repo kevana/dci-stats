@@ -2848,5 +2848,26 @@
         "state": "IN"
       }
     ]
-  }
+  },
+  "locations": [
+    "Whitewater, WI",
+    "Ithaca, NY",
+    "Philadelphia, PA",
+    "Denver, CO",
+    "Birmingham, AL",
+    "Montreal, QU",
+    "Miami, FL",
+    "Atlanta, GA",
+    "Madison, WI",
+    "Kansas City, MO",
+    "Buffalo, NY",
+    "Dallas, TX",
+    "Jackson, MS",
+    "Foxboro, MA",
+    "Orlando, FL",
+    "College Park, MD",
+    "Pasadena, CA",
+    "Bloomington, IN",
+    "Indianapolis, IN"
+  ]
 }
