@@ -9,7 +9,7 @@ import requests
 from time import sleep
 
 # Enter the current year of competition as a string
-year = '2013'
+year = '2014'
 
 allYearsEvents = {year: []}
 corps = []
@@ -30,7 +30,10 @@ soup = BeautifulSoup(r.text)
 options = soup.find('select').findChildren()
 event_ids = [opt['value'] for opt in options]
 
+counter = 0
+
 for idx in event_ids:
+    counter += 1
     thisEvent = {}
     params = {'event': idx}
     r = requests.get('http://www.dci.org/scores/index.cfm', params=params)
@@ -74,16 +77,16 @@ for idx in event_ids:
 
     thisEvent['results'] = yearResultsList
     allYearsEvents[year].append(thisEvent)
-    print('Finished processing event: %s' % thisEvent['name'])
+    print('Finished processing event (%d/%d): %s' % (counter, len(event_ids), thisEvent['name']))
     sleep(1)  # Don't DOS the DCI website
 
-finalData = {'corps': corps.sorted(),
+finalData = {'corps': sorted(corps),
              'events': allYearsEvents,
              'locations': locations}
 
 # Write all results to a file
-with open('DCI-2013-season.json', 'w') as outFile:
+with open('DCI-%s-season.json' % year, 'w') as outFile:
     outFile.write(json.dumps(finalData, sort_keys=True, indent=2, default=dthandler))
 
-with open('DCI-2013-season.min.json', 'w') as outFile:
+with open('DCI-%s-season.min.json' % year, 'w') as outFile:
     outFile.write(json.dumps(finalData, sort_keys=True, separators=(',', ':'), default=dthandler))
