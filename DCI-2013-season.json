@@ -1,0 +1,4637 @@
+{
+  "corps": [
+    "Carolina Crown",
+    "Blue Devils",
+    "The Cadets",
+    "Santa Clara Vanguard",
+    "Bluecoats",
+    "Phantom Regiment",
+    "The Cavaliers",
+    "Boston Crusaders",
+    "Madison Scouts",
+    "Blue Knights",
+    "Spirit of Atlanta",
+    "Blue Stars",
+    "Troopers",
+    "Crossmen",
+    "Colts",
+    "Pacific Crest",
+    "Oregon Crusaders",
+    "Mandarins",
+    "The Academy",
+    "Blue Devils B",
+    "Vanguard Cadets",
+    "Jersey Surf",
+    "Genesis",
+    "Spartans",
+    "Music City",
+    "Gold",
+    "Cascades",
+    "Pioneer",
+    "Legends",
+    "7th Regiment",
+    "Raiders",
+    "Colt Cadets",
+    "Taipei Yuehfu",
+    "Les Stentors",
+    "Racine Scouts",
+    "Blue Saints"
+  ],
+  "events": {
+    "2013": [
+      {
+        "city": "Indianapolis",
+        "date": "2013-08-10T00:00:00",
+        "name": "DCI World Championship Finals",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "98.300"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "98.050"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "96.950"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "96.850"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "5",
+            "score": "93.350"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "6",
+            "score": "93.250"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "7",
+            "score": "90.500"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "8",
+            "score": "90.400"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "9",
+            "score": "90.100"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "10",
+            "score": "87.750"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "11",
+            "score": "86.400"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "12",
+            "score": "85.450"
+          }
+        ],
+        "state": "IN"
+      },
+      {
+        "city": "Indianapolis",
+        "date": "2013-08-09T00:00:00",
+        "name": "DCI World Championships Semifinals",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "98.250"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "97.600"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "96.850"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "96.500"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "93.050"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "5",
+            "score": "93.050"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "7",
+            "score": "91.250"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "8",
+            "score": "90.500"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "9",
+            "score": "90.000"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "10",
+            "score": "89.350"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "11",
+            "score": "86.400"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "12",
+            "score": "86.200"
+          },
+          {
+            "corps": "Troopers",
+            "place": "13",
+            "score": "86.050"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "14",
+            "score": "84.850"
+          },
+          {
+            "corps": "Colts",
+            "place": "15",
+            "score": "82.450"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "16",
+            "score": "82.300"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "17",
+            "score": "81.050"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "18",
+            "score": "79.750"
+          },
+          {
+            "corps": "The Academy",
+            "place": "19",
+            "score": "78.200"
+          },
+          {
+            "corps": "Blue Devils B",
+            "place": "20",
+            "score": "77.950"
+          },
+          {
+            "corps": "Vanguard Cadets",
+            "place": "21",
+            "score": "77.700"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "22",
+            "score": "75.400"
+          },
+          {
+            "corps": "Genesis",
+            "place": "23",
+            "score": "74.650"
+          },
+          {
+            "corps": "Spartans",
+            "place": "24",
+            "score": "72.850"
+          },
+          {
+            "corps": "Music City",
+            "place": "25",
+            "score": "72.750"
+          }
+        ],
+        "state": "IN"
+      },
+      {
+        "city": "Indianapolis",
+        "date": "2013-08-08T00:00:00",
+        "name": "DCI World Championships Prelims",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "97.200"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "2",
+            "score": "97.050"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "96.100"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "95.500"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "5",
+            "score": "92.900"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "6",
+            "score": "92.350"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "7",
+            "score": "89.900"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "7",
+            "score": "89.900"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "9",
+            "score": "88.050"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "10",
+            "score": "87.950"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "11",
+            "score": "86.750"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "12",
+            "score": "85.500"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "13",
+            "score": "83.750"
+          },
+          {
+            "corps": "Troopers",
+            "place": "14",
+            "score": "83.600"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "15",
+            "score": "81.450"
+          },
+          {
+            "corps": "Colts",
+            "place": "16",
+            "score": "81.400"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "17",
+            "score": "79.250"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "18",
+            "score": "78.450"
+          },
+          {
+            "corps": "Vanguard Cadets",
+            "place": "19",
+            "score": "78.200"
+          },
+          {
+            "corps": "Blue Devils B",
+            "place": "20",
+            "score": "77.750"
+          },
+          {
+            "corps": "The Academy",
+            "place": "21",
+            "score": "77.500"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "22",
+            "score": "74.550"
+          },
+          {
+            "corps": "Genesis",
+            "place": "23",
+            "score": "73.750"
+          },
+          {
+            "corps": "Spartans",
+            "place": "24",
+            "score": "72.800"
+          },
+          {
+            "corps": "Music City",
+            "place": "25",
+            "score": "71.550"
+          },
+          {
+            "corps": "Gold",
+            "place": "26",
+            "score": "69.950"
+          },
+          {
+            "corps": "Cascades",
+            "place": "27",
+            "score": "69.850"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "28",
+            "score": "69.050"
+          },
+          {
+            "corps": "Legends",
+            "place": "29",
+            "score": "68.400"
+          },
+          {
+            "corps": "7th Regiment",
+            "place": "30",
+            "score": "67.000"
+          },
+          {
+            "corps": "Raiders",
+            "place": "31",
+            "score": "64.900"
+          },
+          {
+            "corps": "Colt Cadets",
+            "place": "32",
+            "score": "63.100"
+          },
+          {
+            "corps": "Taipei Yuehfu",
+            "place": "33",
+            "score": "60.900"
+          },
+          {
+            "corps": "Les Stentors",
+            "place": "34",
+            "score": "58.250"
+          },
+          {
+            "corps": "Racine Scouts",
+            "place": "35",
+            "score": "55.600"
+          },
+          {
+            "corps": "Blue Saints",
+            "place": "36",
+            "score": "52.000"
+          }
+        ],
+        "state": "IN"
+      },
+      {
+        "city": "Michigan CIty",
+        "date": "2013-08-06T00:00:00",
+        "name": "DCI Championships Open Class Championship Finals",
+        "results": [
+          {
+            "corps": "Vanguard Cadets",
+            "place": "1",
+            "score": "96.150"
+          },
+          {
+            "corps": "Blue Devils B",
+            "place": "2",
+            "score": "95.700"
+          },
+          {
+            "corps": "Genesis",
+            "place": "3",
+            "score": "91.550"
+          },
+          {
+            "corps": "Spartans",
+            "place": "4",
+            "score": "90.500"
+          },
+          {
+            "corps": "Music City",
+            "place": "5",
+            "score": "90.350"
+          },
+          {
+            "corps": "Gold",
+            "place": "6",
+            "score": "86.750"
+          },
+          {
+            "corps": "7th Regiment",
+            "place": "7",
+            "score": "86.600"
+          },
+          {
+            "corps": "Legends",
+            "place": "8",
+            "score": "85.700"
+          },
+          {
+            "corps": "Raiders",
+            "place": "9",
+            "score": "84.950"
+          },
+          {
+            "corps": "Colt Cadets",
+            "place": "10",
+            "score": "80.900"
+          },
+          {
+            "corps": "Taipei Yuehfu",
+            "place": "11",
+            "score": "77.350"
+          },
+          {
+            "corps": "Les Stentors",
+            "place": "12",
+            "score": "76.650"
+          },
+          {
+            "corps": "Racine Scouts",
+            "place": "13",
+            "score": "70.400"
+          },
+          {
+            "corps": "Blue Saints",
+            "place": "14",
+            "score": "0.000"
+          }
+        ],
+        "state": "IN"
+      },
+      {
+        "city": "Massillon",
+        "date": "2013-08-06T00:00:00",
+        "name": "Pro Football Hall of Fame Enshrinement Festival Drum Corps Competition",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "96.450"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "2",
+            "score": "96.000"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "3",
+            "score": "93.100"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "4",
+            "score": "85.500"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "5",
+            "score": "81.300"
+          },
+          {
+            "corps": "The Academy",
+            "place": "6",
+            "score": "80.550"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "7",
+            "score": "79.400"
+          },
+          {
+            "corps": "Cascades",
+            "place": "8",
+            "score": "72.300"
+          }
+        ],
+        "state": "OH"
+      },
+      {
+        "city": "Michigan City",
+        "date": "2013-08-05T00:00:00",
+        "name": "DCI World Championships Open Class Championship Prelims",
+        "results": [
+          {
+            "corps": "Vanguard Cadets",
+            "place": "1",
+            "score": "94.350"
+          },
+          {
+            "corps": "Blue Devils B",
+            "place": "2",
+            "score": "94.100"
+          },
+          {
+            "corps": "Genesis",
+            "place": "3",
+            "score": "91.200"
+          },
+          {
+            "corps": "Music City",
+            "place": "4",
+            "score": "89.650"
+          },
+          {
+            "corps": "Spartans",
+            "place": "5",
+            "score": "89.400"
+          },
+          {
+            "corps": "7th Regiment",
+            "place": "6",
+            "score": "86.450"
+          },
+          {
+            "corps": "Gold",
+            "place": "7",
+            "score": "86.100"
+          },
+          {
+            "corps": "Legends",
+            "place": "8",
+            "score": "84.100"
+          },
+          {
+            "corps": "Raiders",
+            "place": "9",
+            "score": "83.300"
+          },
+          {
+            "corps": "Colt Cadets",
+            "place": "10",
+            "score": "78.850"
+          },
+          {
+            "corps": "Taipei Yuehfu",
+            "place": "11",
+            "score": "76.850"
+          },
+          {
+            "corps": "Les Stentors",
+            "place": "12",
+            "score": "74.700"
+          },
+          {
+            "corps": "Racine Scouts",
+            "place": "13",
+            "score": "67.750"
+          },
+          {
+            "corps": "Blue Saints",
+            "place": "14",
+            "score": "67.550"
+          }
+        ],
+        "state": "IN"
+      },
+      {
+        "city": "Centerville",
+        "date": "2013-08-05T00:00:00",
+        "name": "Soaring Sounds - 34",
+        "results": [
+          {
+            "corps": "Boston Crusaders",
+            "place": "1",
+            "score": "89.000"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "2",
+            "score": "88.600"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "3",
+            "score": "86.400"
+          },
+          {
+            "corps": "Colts",
+            "place": "4",
+            "score": "81.350"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "5",
+            "score": "80.900"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "6",
+            "score": "78.400"
+          },
+          {
+            "corps": "The Academy",
+            "place": "7",
+            "score": "78.200"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "8",
+            "score": "75.400"
+          }
+        ],
+        "state": "OH"
+      },
+      {
+        "city": "Buffalo",
+        "date": "2013-08-05T00:00:00",
+        "name": "Tour of Champions - Buffalo",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "95.850"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "95.850"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "94.500"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "94.450"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "5",
+            "score": "91.500"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "6",
+            "score": "91.350"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "7",
+            "score": "89.500"
+          }
+        ],
+        "state": "NY"
+      },
+      {
+        "city": "Pittsburgh",
+        "date": "2013-08-04T00:00:00",
+        "name": "Three Rivers SUMMER MUSIC GAMES",
+        "results": [
+          {
+            "corps": "Boston Crusaders",
+            "place": "1",
+            "score": "88.900"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "2",
+            "score": "86.250"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "3",
+            "score": "85.100"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "4",
+            "score": "84.250"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "5",
+            "score": "83.100"
+          },
+          {
+            "corps": "Troopers",
+            "place": "6",
+            "score": "82.000"
+          },
+          {
+            "corps": "Cascades",
+            "place": "7",
+            "score": "69.050"
+          }
+        ],
+        "state": "PA"
+      },
+      {
+        "city": "Allentown",
+        "date": "2013-08-04T00:00:00",
+        "name": "Tour of Champions",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "95.750"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "2",
+            "score": "95.100"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "94.400"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "93.150"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "91.550"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "6",
+            "score": "90.850"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "7",
+            "score": "89.100"
+          }
+        ],
+        "state": "PA"
+      },
+      {
+        "city": "Allentown",
+        "date": "2013-08-03T00:00:00",
+        "name": "DCI Eastern Classic",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "95.050"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "2",
+            "score": "94.850"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "3",
+            "score": "88.750"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "4",
+            "score": "88.500"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "5",
+            "score": "87.650"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "6",
+            "score": "86.000"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "7",
+            "score": "83.250"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "8",
+            "score": "80.250"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "9",
+            "score": "77.150"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "10",
+            "score": "75.150"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "11",
+            "score": "70.750"
+          },
+          {
+            "corps": "Cascades",
+            "place": "12",
+            "score": "70.200"
+          }
+        ],
+        "state": "PA"
+      },
+      {
+        "city": "Avon Lake",
+        "date": "2013-08-03T00:00:00",
+        "name": "Shoremen Brass Classic",
+        "results": [
+          {
+            "corps": "Blue Devils B",
+            "place": "1",
+            "score": "92.900"
+          },
+          {
+            "corps": "Vanguard Cadets",
+            "place": "2",
+            "score": "92.400"
+          },
+          {
+            "corps": "Genesis",
+            "place": "3",
+            "score": "89.200"
+          },
+          {
+            "corps": "Spartans",
+            "place": "4",
+            "score": "88.250"
+          },
+          {
+            "corps": "Music City",
+            "place": "5",
+            "score": "88.050"
+          },
+          {
+            "corps": "Gold",
+            "place": "6",
+            "score": "85.050"
+          },
+          {
+            "corps": "7th Regiment",
+            "place": "7",
+            "score": "84.950"
+          },
+          {
+            "corps": "Legends",
+            "place": "8",
+            "score": "83.500"
+          },
+          {
+            "corps": "Raiders",
+            "place": "9",
+            "score": "82.450"
+          },
+          {
+            "corps": "Les Stentors",
+            "place": "10",
+            "score": "74.150"
+          },
+          {
+            "corps": "Blue Saints",
+            "place": "11",
+            "score": "65.800"
+          }
+        ],
+        "state": "OH"
+      },
+      {
+        "city": "Johnsonburg",
+        "date": "2013-08-02T00:00:00",
+        "name": "A Blast in the Burg",
+        "results": [
+          {
+            "corps": "Blue Devils B",
+            "place": "1",
+            "score": "92.350"
+          },
+          {
+            "corps": "Vanguard Cadets",
+            "place": "2",
+            "score": "91.950"
+          },
+          {
+            "corps": "Genesis",
+            "place": "3",
+            "score": "88.600"
+          },
+          {
+            "corps": "Music City",
+            "place": "4",
+            "score": "88.250"
+          },
+          {
+            "corps": "7th Regiment",
+            "place": "5",
+            "score": "85.850"
+          },
+          {
+            "corps": "Blue Saints",
+            "place": "6",
+            "score": "65.350"
+          }
+        ],
+        "state": "PA"
+      },
+      {
+        "city": "Allentown",
+        "date": "2013-08-02T00:00:00",
+        "name": "DCI Eastern Classic",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "93.700"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "2",
+            "score": "93.450"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "3",
+            "score": "90.000"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "4",
+            "score": "89.050"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "5",
+            "score": "84.350"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "6",
+            "score": "84.100"
+          },
+          {
+            "corps": "Troopers",
+            "place": "7",
+            "score": "81.650"
+          },
+          {
+            "corps": "Colts",
+            "place": "8",
+            "score": "79.650"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "9",
+            "score": "76.050"
+          },
+          {
+            "corps": "The Academy",
+            "place": "10",
+            "score": "75.600"
+          }
+        ],
+        "state": "PA"
+      },
+      {
+        "city": "Rome",
+        "date": "2013-08-01T00:00:00",
+        "name": "Drums Along the Mohawk",
+        "results": [
+          {
+            "corps": "Blue Knights",
+            "place": "1",
+            "score": "86.800"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "2",
+            "score": "83.100"
+          },
+          {
+            "corps": "Troopers",
+            "place": "3",
+            "score": "80.100"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "4",
+            "score": "76.600"
+          },
+          {
+            "corps": "The Academy",
+            "place": "5",
+            "score": "76.500"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "6",
+            "score": "72.900"
+          },
+          {
+            "corps": "Cascades",
+            "place": "7",
+            "score": "67.850"
+          }
+        ],
+        "state": "NY"
+      },
+      {
+        "city": "Lawrence",
+        "date": "2013-08-01T00:00:00",
+        "name": "East Coast Classic",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "93.150"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "2",
+            "score": "87.300"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "3",
+            "score": "87.250"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "4",
+            "score": "82.600"
+          }
+        ],
+        "state": "MA"
+      },
+      {
+        "city": "Niles",
+        "date": "2013-08-01T00:00:00",
+        "name": "Four Flags Spectacular",
+        "results": [
+          {
+            "corps": "Spartans",
+            "place": "1",
+            "score": "86.250"
+          },
+          {
+            "corps": "Genesis",
+            "place": "2",
+            "score": "85.900"
+          },
+          {
+            "corps": "7th Regiment",
+            "place": "3",
+            "score": "84.100"
+          },
+          {
+            "corps": "Legends",
+            "place": "4",
+            "score": "80.200"
+          },
+          {
+            "corps": "Raiders",
+            "place": "4",
+            "score": "80.200"
+          },
+          {
+            "corps": "Les Stentors",
+            "place": "6",
+            "score": "71.150"
+          },
+          {
+            "corps": "Blue Saints",
+            "place": "7",
+            "score": "63.000"
+          },
+          {
+            "corps": "Racine Scouts",
+            "place": "8",
+            "score": "62.500"
+          }
+        ],
+        "state": "MI"
+      },
+      {
+        "city": "West Chester",
+        "date": "2013-07-31T00:00:00",
+        "name": "Drum Corps: An American Tradition",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "93.650"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "2",
+            "score": "92.700"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "3",
+            "score": "87.250"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "4",
+            "score": "86.800"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "5",
+            "score": "82.500"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "6",
+            "score": "71.550"
+          }
+        ],
+        "state": "PA"
+      },
+      {
+        "city": "Warrenton",
+        "date": "2013-07-31T00:00:00",
+        "name": "Drums in Northern Virginia",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "94.500"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "2",
+            "score": "90.800"
+          },
+          {
+            "corps": "Colts",
+            "place": "3",
+            "score": "81.250"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "4",
+            "score": "79.150"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "5",
+            "score": "77.950"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "6",
+            "score": "68.850"
+          },
+          {
+            "corps": "Cascades",
+            "place": "7",
+            "score": "68.250"
+          }
+        ],
+        "state": "VA"
+      },
+      {
+        "city": "Erie",
+        "date": "2013-07-31T00:00:00",
+        "name": "Lake Erie Fanfare",
+        "results": [
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "1",
+            "score": "92.550"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "2",
+            "score": "86.950"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "3",
+            "score": "84.000"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "4",
+            "score": "82.950"
+          },
+          {
+            "corps": "Troopers",
+            "place": "5",
+            "score": "79.950"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "6",
+            "score": "76.100"
+          },
+          {
+            "corps": "The Academy",
+            "place": "7",
+            "score": "75.800"
+          }
+        ],
+        "state": "PA"
+      },
+      {
+        "city": "Spring Valley",
+        "date": "2013-07-31T00:00:00",
+        "name": "Music to the Core",
+        "results": [
+          {
+            "corps": "Genesis",
+            "place": "1",
+            "score": "86.600"
+          },
+          {
+            "corps": "Music City",
+            "place": "2",
+            "score": "86.200"
+          },
+          {
+            "corps": "7th Regiment",
+            "place": "3",
+            "score": "83.500"
+          },
+          {
+            "corps": "Raiders",
+            "place": "4",
+            "score": "82.350"
+          },
+          {
+            "corps": "Legends",
+            "place": "5",
+            "score": "82.150"
+          },
+          {
+            "corps": "Colt Cadets",
+            "place": "6",
+            "score": "77.250"
+          },
+          {
+            "corps": "Les Stentors",
+            "place": "7",
+            "score": "70.800"
+          }
+        ],
+        "state": "IL"
+      },
+      {
+        "city": "Charleston",
+        "date": "2013-07-30T00:00:00",
+        "name": "Drums Across the Tri-State",
+        "results": [
+          {
+            "corps": "Phantom Regiment",
+            "place": "1",
+            "score": "88.900"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "2",
+            "score": "88.300"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "3",
+            "score": "85.900"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "4",
+            "score": "85.800"
+          },
+          {
+            "corps": "Cascades",
+            "place": "5",
+            "score": "68.400"
+          }
+        ],
+        "state": "WV"
+      },
+      {
+        "city": "Dublin",
+        "date": "2013-07-30T00:00:00",
+        "name": "Emerald City Music Games",
+        "results": [
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "1",
+            "score": "91.300"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "2",
+            "score": "85.800"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "3",
+            "score": "83.350"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "4",
+            "score": "81.950"
+          },
+          {
+            "corps": "Troopers",
+            "place": "5",
+            "score": "79.000"
+          },
+          {
+            "corps": "The Academy",
+            "place": "6",
+            "score": "75.650"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "7",
+            "score": "75.250"
+          }
+        ],
+        "state": "OH"
+      },
+      {
+        "city": "Mason City",
+        "date": "2013-07-30T00:00:00",
+        "name": "The Music Man's Festival of Brass",
+        "results": [
+          {
+            "corps": "Genesis",
+            "place": "1",
+            "score": "84.450"
+          },
+          {
+            "corps": "Spartans",
+            "place": "2",
+            "score": "84.350"
+          },
+          {
+            "corps": "7th Regiment",
+            "place": "3",
+            "score": "82.400"
+          },
+          {
+            "corps": "Legends",
+            "place": "4",
+            "score": "80.550"
+          },
+          {
+            "corps": "Raiders",
+            "place": "5",
+            "score": "79.800"
+          },
+          {
+            "corps": "Colt Cadets",
+            "place": "6",
+            "score": "76.400"
+          },
+          {
+            "corps": "Les Stentors",
+            "place": "7",
+            "score": "70.500"
+          },
+          {
+            "corps": "Racine Scouts",
+            "place": "8",
+            "score": "60.950"
+          },
+          {
+            "corps": "Blue Saints",
+            "place": "9",
+            "score": "59.600"
+          }
+        ],
+        "state": "IA"
+      },
+      {
+        "city": "Salem",
+        "date": "2013-07-30T00:00:00",
+        "name": "WDBJ-7 Summer Music Games of Southwest Virginia",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "94.100"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "93.300"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "3",
+            "score": "86.100"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "4",
+            "score": "82.000"
+          },
+          {
+            "corps": "Colts",
+            "place": "5",
+            "score": "79.200"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "6",
+            "score": "79.050"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "7",
+            "score": "76.000"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "8",
+            "score": "69.750"
+          }
+        ],
+        "state": "VA"
+      },
+      {
+        "city": "Rice Lake",
+        "date": "2013-07-29T00:00:00",
+        "name": "Rhythm Across Rice Lake",
+        "results": [
+          {
+            "corps": "Spartans",
+            "place": "1",
+            "score": "83.600"
+          },
+          {
+            "corps": "Genesis",
+            "place": "2",
+            "score": "82.550"
+          },
+          {
+            "corps": "7th Regiment",
+            "place": "3",
+            "score": "81.200"
+          },
+          {
+            "corps": "Legends",
+            "place": "4",
+            "score": "79.600"
+          },
+          {
+            "corps": "Raiders",
+            "place": "5",
+            "score": "77.400"
+          },
+          {
+            "corps": "Les Stentors",
+            "place": "6",
+            "score": "70.150"
+          },
+          {
+            "corps": "Blue Saints",
+            "place": "7",
+            "score": "56.150"
+          }
+        ],
+        "state": "WI"
+      },
+      {
+        "city": "Atlanta",
+        "date": "2013-07-28T00:00:00",
+        "name": "DCI Atlanta Southeastern Championship",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "92.900"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "2",
+            "score": "92.550"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "92.000"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "91.350"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "89.000"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "6",
+            "score": "88.200"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "7",
+            "score": "86.200"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "8",
+            "score": "85.350"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "9",
+            "score": "85.000"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "10",
+            "score": "84.550"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "11",
+            "score": "82.700"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "12",
+            "score": "82.150"
+          },
+          {
+            "corps": "Troopers",
+            "place": "13",
+            "score": "80.350"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "14",
+            "score": "79.950"
+          },
+          {
+            "corps": "Colts",
+            "place": "15",
+            "score": "77.750"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "16",
+            "score": "77.300"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "17",
+            "score": "75.500"
+          },
+          {
+            "corps": "The Academy",
+            "place": "18",
+            "score": "74.550"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "19",
+            "score": "74.400"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "20",
+            "score": "70.650"
+          },
+          {
+            "corps": "Cascades",
+            "place": "21",
+            "score": "68.850"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "21",
+            "score": "68.850"
+          }
+        ],
+        "state": "GA"
+      },
+      {
+        "city": "Huntsville",
+        "date": "2013-07-27T00:00:00",
+        "name": "DCI North Alabama",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "85.950"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "2",
+            "score": "84.200"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "3",
+            "score": "83.600"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "4",
+            "score": "82.150"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "5",
+            "score": "81.400"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "6",
+            "score": "79.900"
+          },
+          {
+            "corps": "Troopers",
+            "place": "7",
+            "score": "78.850"
+          },
+          {
+            "corps": "Colts",
+            "place": "8",
+            "score": "77.200"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "9",
+            "score": "76.200"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "10",
+            "score": "75.300"
+          },
+          {
+            "corps": "The Academy",
+            "place": "11",
+            "score": "74.850"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "12",
+            "score": "72.100"
+          },
+          {
+            "corps": "Cascades",
+            "place": "13",
+            "score": "70.050"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "14",
+            "score": "69.700"
+          }
+        ],
+        "state": "AL"
+      },
+      {
+        "city": "Kalamazoo",
+        "date": "2013-07-27T00:00:00",
+        "name": "Legends Drum Corps Open",
+        "results": [
+          {
+            "corps": "Blue Devils B",
+            "place": "1",
+            "score": "85.000"
+          },
+          {
+            "corps": "Vanguard Cadets",
+            "place": "2",
+            "score": "83.300"
+          },
+          {
+            "corps": "Spartans",
+            "place": "3",
+            "score": "80.750"
+          },
+          {
+            "corps": "Genesis",
+            "place": "4",
+            "score": "80.450"
+          },
+          {
+            "corps": "7th Regiment",
+            "place": "5",
+            "score": "79.300"
+          },
+          {
+            "corps": "Legends",
+            "place": "6",
+            "score": "76.850"
+          },
+          {
+            "corps": "Colt Cadets",
+            "place": "7",
+            "score": "73.550"
+          },
+          {
+            "corps": "Racine Scouts",
+            "place": "8",
+            "score": "59.100"
+          },
+          {
+            "corps": "Raiders",
+            "place": "9",
+            "score": "0.000"
+          }
+        ],
+        "state": "MI"
+      },
+      {
+        "city": "Charlotte",
+        "date": "2013-07-27T00:00:00",
+        "name": "NightBEAT",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "91.900"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "2",
+            "score": "91.850"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "90.850"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "89.050"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "87.900"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "6",
+            "score": "86.700"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "7",
+            "score": "84.950"
+          }
+        ],
+        "state": "NC"
+      },
+      {
+        "city": "Murfreesboro",
+        "date": "2013-07-26T00:00:00",
+        "name": "The Masters of the Summer Music Games",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "92.150"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "2",
+            "score": "91.100"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "91.000"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "89.900"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "87.200"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "6",
+            "score": "87.100"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "7",
+            "score": "84.350"
+          }
+        ],
+        "state": "TN"
+      },
+      {
+        "city": "Opelika",
+        "date": "2013-07-25T00:00:00",
+        "name": "Alabama Sounds of Summer",
+        "results": [
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "1",
+            "score": "82.700"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "2",
+            "score": "81.900"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "3",
+            "score": "76.100"
+          },
+          {
+            "corps": "The Academy",
+            "place": "4",
+            "score": "75.500"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "5",
+            "score": "69.950"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "6",
+            "score": "68.450"
+          }
+        ],
+        "state": "AL"
+      },
+      {
+        "city": "Little Rock",
+        "date": "2013-07-24T00:00:00",
+        "name": "DCI Arkansas",
+        "results": [
+          {
+            "corps": "Bluecoats",
+            "place": "1",
+            "score": "86.950"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "2",
+            "score": "85.400"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "3",
+            "score": "83.200"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "4",
+            "score": "83.050"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "5",
+            "score": "80.350"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "6",
+            "score": "76.300"
+          },
+          {
+            "corps": "The Academy",
+            "place": "7",
+            "score": "73.150"
+          }
+        ],
+        "state": "AR"
+      },
+      {
+        "city": "Hattiesburg",
+        "date": "2013-07-24T00:00:00",
+        "name": "DCI Southern Mississippi",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "91.350"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "86.800"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "3",
+            "score": "81.200"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "4",
+            "score": "80.300"
+          },
+          {
+            "corps": "Troopers",
+            "place": "5",
+            "score": "77.950"
+          },
+          {
+            "corps": "Colts",
+            "place": "6",
+            "score": "77.350"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "7",
+            "score": "73.600"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "8",
+            "score": "66.850"
+          }
+        ],
+        "state": "MS"
+      },
+      {
+        "city": "Dallas",
+        "date": "2013-07-23T00:00:00",
+        "name": "DCI Dallas presented by North Texas Festival of Drums and Bugles",
+        "results": [
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "1",
+            "score": "89.000"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "2",
+            "score": "85.950"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "3",
+            "score": "83.250"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "4",
+            "score": "78.950"
+          },
+          {
+            "corps": "The Academy",
+            "place": "5",
+            "score": "73.200"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "6",
+            "score": "68.900"
+          }
+        ],
+        "state": "TX"
+      },
+      {
+        "city": "Mustang",
+        "date": "2013-07-23T00:00:00",
+        "name": "DCI in the Heartland",
+        "results": [
+          {
+            "corps": "The Cavaliers",
+            "place": "1",
+            "score": "84.200"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "2",
+            "score": "81.900"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "3",
+            "score": "76.650"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "4",
+            "score": "74.600"
+          },
+          {
+            "corps": "Cascades",
+            "place": "5",
+            "score": "65.650"
+          }
+        ],
+        "state": "OK"
+      },
+      {
+        "city": "Ocean Springs",
+        "date": "2013-07-23T00:00:00",
+        "name": "Mississippi Sound Spectacular",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "90.700"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "2",
+            "score": "90.450"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "3",
+            "score": "84.750"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "4",
+            "score": "80.900"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "5",
+            "score": "79.400"
+          },
+          {
+            "corps": "Troopers",
+            "place": "6",
+            "score": "76.900"
+          },
+          {
+            "corps": "Colts",
+            "place": "7",
+            "score": "76.600"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "8",
+            "score": "66.250"
+          }
+        ],
+        "state": "MS"
+      },
+      {
+        "city": "Lafayette",
+        "date": "2013-07-22T00:00:00",
+        "name": "Drums Across Cajun Field",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "90.750"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "2",
+            "score": "90.650"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "3",
+            "score": "84.600"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "4",
+            "score": "80.250"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "5",
+            "score": "78.450"
+          },
+          {
+            "corps": "Troopers",
+            "place": "6",
+            "score": "76.850"
+          },
+          {
+            "corps": "Colts",
+            "place": "7",
+            "score": "75.700"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "8",
+            "score": "72.250"
+          }
+        ],
+        "state": "LA"
+      },
+      {
+        "city": "Round Rock",
+        "date": "2013-07-21T00:00:00",
+        "name": "Tour of Championships - Texas",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "89.900"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "89.800"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "89.550"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "87.850"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "85.450"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "6",
+            "score": "84.500"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "7",
+            "score": "82.500"
+          }
+        ],
+        "state": "TX"
+      },
+      {
+        "city": "San Antonio",
+        "date": "2013-07-20T00:00:00",
+        "name": "DCI Southwestern Championships @ the Alamodome",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "89.450"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "2",
+            "score": "89.200"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "88.450"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "87.600"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "85.750"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "6",
+            "score": "85.050"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "7",
+            "score": "83.250"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "8",
+            "score": "83.200"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "9",
+            "score": "82.050"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "10",
+            "score": "80.950"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "11",
+            "score": "79.200"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "12",
+            "score": "78.050"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "13",
+            "score": "77.500"
+          },
+          {
+            "corps": "Troopers",
+            "place": "14",
+            "score": "77.050"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "15",
+            "score": "75.550"
+          },
+          {
+            "corps": "Colts",
+            "place": "16",
+            "score": "75.050"
+          },
+          {
+            "corps": "The Academy",
+            "place": "17",
+            "score": "71.950"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "18",
+            "score": "71.350"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "19",
+            "score": "71.250"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "20",
+            "score": "66.400"
+          },
+          {
+            "corps": "Cascades",
+            "place": "21",
+            "score": "64.950"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "22",
+            "score": "63.000"
+          }
+        ],
+        "state": "TX"
+      },
+      {
+        "city": "Manchester",
+        "date": "2013-07-20T00:00:00",
+        "name": "Fiesta De Musica",
+        "results": [
+          {
+            "corps": "7th Regiment",
+            "place": "1",
+            "score": "79.200"
+          },
+          {
+            "corps": "Spartans",
+            "place": "2",
+            "score": "78.900"
+          },
+          {
+            "corps": "Legends",
+            "place": "3",
+            "score": "76.200"
+          },
+          {
+            "corps": "Raiders",
+            "place": "4",
+            "score": "72.700"
+          },
+          {
+            "corps": "Les Stentors",
+            "place": "5",
+            "score": "63.900"
+          }
+        ],
+        "state": "NH"
+      },
+      {
+        "city": "Houston",
+        "date": "2013-07-19T00:00:00",
+        "name": "DCI Houston presented by THE exSIGHTment OF SOUND",
+        "results": [
+          {
+            "corps": "Phantom Regiment",
+            "place": "1",
+            "score": "85.550"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "2",
+            "score": "83.350"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "3",
+            "score": "82.800"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "4",
+            "score": "82.550"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "5",
+            "score": "80.750"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "6",
+            "score": "73.850"
+          },
+          {
+            "corps": "The Academy",
+            "place": "7",
+            "score": "73.250"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "8",
+            "score": "67.900"
+          }
+        ],
+        "state": "TX"
+      },
+      {
+        "city": "Denton",
+        "date": "2013-07-18T00:00:00",
+        "name": "DCI North Dallas Presented by CoServ Electric for Red River Thunder",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "87.700"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "2",
+            "score": "87.600"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "87.050"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "85.750"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "5",
+            "score": "81.350"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "6",
+            "score": "81.050"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "7",
+            "score": "78.550"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "8",
+            "score": "77.150"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "9",
+            "score": "77.050"
+          },
+          {
+            "corps": "Colts",
+            "place": "10",
+            "score": "75.450"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "11",
+            "score": "72.450"
+          }
+        ],
+        "state": "TX"
+      },
+      {
+        "city": "Broken Arrow",
+        "date": "2013-07-17T00:00:00",
+        "name": "Drums of Summer",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "85.950"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "2",
+            "score": "80.750"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "3",
+            "score": "77.800"
+          },
+          {
+            "corps": "Troopers",
+            "place": "4",
+            "score": "76.050"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "5",
+            "score": "75.400"
+          },
+          {
+            "corps": "Colts",
+            "place": "6",
+            "score": "74.550"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "7",
+            "score": "72.300"
+          },
+          {
+            "corps": "The Academy",
+            "place": "8",
+            "score": "71.300"
+          },
+          {
+            "corps": "Cascades",
+            "place": "9",
+            "score": "65.150"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "10",
+            "score": "64.100"
+          }
+        ],
+        "state": "OK"
+      },
+      {
+        "city": "Wichita",
+        "date": "2013-07-16T00:00:00",
+        "name": "Drums Across Kansas",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "87.300"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "2",
+            "score": "82.600"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "3",
+            "score": "78.700"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "4",
+            "score": "76.700"
+          },
+          {
+            "corps": "Cascades",
+            "place": "5",
+            "score": "63.550"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "6",
+            "score": "63.250"
+          }
+        ],
+        "state": "KS"
+      },
+      {
+        "city": "Bentonville",
+        "date": "2013-07-16T00:00:00",
+        "name": "Music on the Move",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "88.150"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "2",
+            "score": "77.450"
+          },
+          {
+            "corps": "Troopers",
+            "place": "3",
+            "score": "75.450"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "4",
+            "score": "74.450"
+          },
+          {
+            "corps": "Colts",
+            "place": "5",
+            "score": "74.050"
+          },
+          {
+            "corps": "The Academy",
+            "place": "6",
+            "score": "71.100"
+          }
+        ],
+        "state": "AR"
+      },
+      {
+        "city": "Olathe",
+        "date": "2013-07-15T00:00:00",
+        "name": "Brass Impact",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "81.850"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "2",
+            "score": "78.900"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "3",
+            "score": "77.050"
+          },
+          {
+            "corps": "Colts",
+            "place": "4",
+            "score": "73.050"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "5",
+            "score": "72.950"
+          },
+          {
+            "corps": "Cascades",
+            "place": "6",
+            "score": "63.700"
+          }
+        ],
+        "state": "KS"
+      },
+      {
+        "city": "Lebanon",
+        "date": "2013-07-15T00:00:00",
+        "name": "DCI St. Louis",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "87.050"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "86.100"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "3",
+            "score": "82.450"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "4",
+            "score": "76.050"
+          },
+          {
+            "corps": "Troopers",
+            "place": "5",
+            "score": "73.950"
+          },
+          {
+            "corps": "The Academy",
+            "place": "6",
+            "score": "71.050"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "7",
+            "score": "61.700"
+          }
+        ],
+        "state": "IL"
+      },
+      {
+        "city": "DeKalb",
+        "date": "2013-07-14T00:00:00",
+        "name": "Tour of Champions - Northern Illinois",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "85.400"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "85.400"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "3",
+            "score": "84.850"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "83.250"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "81.550"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "6",
+            "score": "79.750"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "7",
+            "score": "79.000"
+          }
+        ],
+        "state": "IL"
+      },
+      {
+        "city": "Bellflower",
+        "date": "2013-07-14T00:00:00",
+        "name": "So Cal Classic Open Class Championships",
+        "results": [
+          {
+            "corps": "Pacific Crest",
+            "place": "1",
+            "score": "75.000"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "2",
+            "score": "73.800"
+          }
+        ],
+        "state": "CA"
+      },
+      {
+        "city": "Minneapolis",
+        "date": "2013-07-13T00:00:00",
+        "name": "DCI Minnesota",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "86.000"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "85.550"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "84.450"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "83.850"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "82.000"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "6",
+            "score": "81.300"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "7",
+            "score": "80.150"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "8",
+            "score": "78.600"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "9",
+            "score": "78.100"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "10",
+            "score": "78.050"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "11",
+            "score": "75.450"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "12",
+            "score": "75.350"
+          },
+          {
+            "corps": "Troopers",
+            "place": "13",
+            "score": "73.400"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "14",
+            "score": "73.300"
+          },
+          {
+            "corps": "Colts",
+            "place": "15",
+            "score": "70.900"
+          },
+          {
+            "corps": "The Academy",
+            "place": "16",
+            "score": "69.100"
+          },
+          {
+            "corps": "Cascades",
+            "place": "17",
+            "score": "61.000"
+          }
+        ],
+        "state": "MN"
+      },
+      {
+        "city": "Laguna Hills",
+        "date": "2013-07-13T00:00:00",
+        "name": "Laguna Hills",
+        "results": [
+          {
+            "corps": "Pacific Crest",
+            "place": "1",
+            "score": "74.800"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "2",
+            "score": "73.600"
+          }
+        ],
+        "state": "CA"
+      },
+      {
+        "city": "Dubuque",
+        "date": "2013-07-12T00:00:00",
+        "name": "Music on the March",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "81.050"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "2",
+            "score": "78.550"
+          },
+          {
+            "corps": "Colts",
+            "place": "3",
+            "score": "75.200"
+          },
+          {
+            "corps": "The Academy",
+            "place": "4",
+            "score": "72.200"
+          },
+          {
+            "corps": "Cascades",
+            "place": "5",
+            "score": "64.450"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "6",
+            "score": "62.900"
+          }
+        ],
+        "state": "IA"
+      },
+      {
+        "city": "La Crosse",
+        "date": "2013-07-12T00:00:00",
+        "name": "River City Rhapsody - La Crosse WI",
+        "results": [
+          {
+            "corps": "Bluecoats",
+            "place": "1",
+            "score": "80.100"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "2",
+            "score": "78.950"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "3",
+            "score": "77.250"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "4",
+            "score": "75.550"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "5",
+            "score": "74.850"
+          },
+          {
+            "corps": "Troopers",
+            "place": "6",
+            "score": "73.900"
+          }
+        ],
+        "state": "WI"
+      },
+      {
+        "city": "Muscatine",
+        "date": "2013-07-11T00:00:00",
+        "name": "Percussion on the Pearl",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "80.150"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "2",
+            "score": "76.550"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "3",
+            "score": "75.150"
+          },
+          {
+            "corps": "Colts",
+            "place": "4",
+            "score": "73.900"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "5",
+            "score": "62.100"
+          }
+        ],
+        "state": "IA"
+      },
+      {
+        "city": "Warrensburg",
+        "date": "2013-07-11T00:00:00",
+        "name": "Tour of Champions - Central Missouri",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "85.450"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "84.100"
+          },
+          {
+            "corps": "The Cadets",
+            "place": "3",
+            "score": "83.900"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "4",
+            "score": "82.350"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "5",
+            "score": "80.750"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "6",
+            "score": "78.500"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "7",
+            "score": "78.300"
+          }
+        ],
+        "state": "MO"
+      },
+      {
+        "city": "Waukee",
+        "date": "2013-07-10T00:00:00",
+        "name": "Celebration in Brass",
+        "results": [
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "1",
+            "score": "82.550"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "2",
+            "score": "79.750"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "3",
+            "score": "75.100"
+          },
+          {
+            "corps": "Colts",
+            "place": "4",
+            "score": "73.750"
+          },
+          {
+            "corps": "The Academy",
+            "place": "5",
+            "score": "70.000"
+          },
+          {
+            "corps": "Cascades",
+            "place": "6",
+            "score": "61.000"
+          }
+        ],
+        "state": "IA"
+      },
+      {
+        "city": "Metamora",
+        "date": "2013-07-09T00:00:00",
+        "name": "River City Rhapsody - Metamora",
+        "results": [
+          {
+            "corps": "Phantom Regiment",
+            "place": "1",
+            "score": "80.700"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "2",
+            "score": "75.300"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "3",
+            "score": "73.100"
+          },
+          {
+            "corps": "Colts",
+            "place": "4",
+            "score": "70.400"
+          },
+          {
+            "corps": "The Academy",
+            "place": "5",
+            "score": "69.000"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "6",
+            "score": "60.900"
+          }
+        ],
+        "state": "IL"
+      },
+      {
+        "city": "Sioux Falls",
+        "date": "2013-07-09T00:00:00",
+        "name": "Sioux Empire Spectacular",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "83.400"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "2",
+            "score": "74.700"
+          },
+          {
+            "corps": "Troopers",
+            "place": "3",
+            "score": "72.200"
+          },
+          {
+            "corps": "Cascades",
+            "place": "4",
+            "score": "55.400"
+          }
+        ],
+        "state": "SD"
+      },
+      {
+        "city": "Omaha",
+        "date": "2013-07-08T00:00:00",
+        "name": "Drums Across Nebraska",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "83.300"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "82.650"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "3",
+            "score": "80.550"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "4",
+            "score": "75.400"
+          },
+          {
+            "corps": "Troopers",
+            "place": "5",
+            "score": "72.400"
+          },
+          {
+            "corps": "The Academy",
+            "place": "6",
+            "score": "68.350"
+          },
+          {
+            "corps": "Cascades",
+            "place": "7",
+            "score": "58.100"
+          }
+        ],
+        "state": "NE"
+      },
+      {
+        "city": "Lisle",
+        "date": "2013-07-07T00:00:00",
+        "name": "Cavalcade of Brass",
+        "results": [
+          {
+            "corps": "The Cavaliers",
+            "place": "1",
+            "score": "77.000"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "2",
+            "score": "74.850"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "3",
+            "score": "72.800"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "4",
+            "score": "72.750"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "5",
+            "score": "59.350"
+          }
+        ],
+        "state": "IL"
+      },
+      {
+        "city": "Chambersburg",
+        "date": "2013-07-07T00:00:00",
+        "name": "Drum Corps: An American Tradition",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "83.150"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "79.300"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "3",
+            "score": "78.800"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "4",
+            "score": "73.950"
+          }
+        ],
+        "state": "PA"
+      },
+      {
+        "city": "Pleasant Hill",
+        "date": "2013-07-07T00:00:00",
+        "name": "Loudest Show on Earth",
+        "results": [
+          {
+            "corps": "Mandarins",
+            "place": "1",
+            "score": "71.450"
+          }
+        ],
+        "state": "CA"
+      },
+      {
+        "city": "Sacramento",
+        "date": "2013-07-06T00:00:00",
+        "name": "DCI Capitol Classic Corps Show",
+        "results": [
+          {
+            "corps": "Mandarins",
+            "place": "1",
+            "score": "70.300"
+          }
+        ],
+        "state": "CA"
+      },
+      {
+        "city": "Chester",
+        "date": "2013-07-06T00:00:00",
+        "name": "Drum Corps: An American Tradition",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "81.800"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "78.600"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "3",
+            "score": "78.300"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "4",
+            "score": "74.900"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "5",
+            "score": "65.350"
+          }
+        ],
+        "state": "PA"
+      },
+      {
+        "city": "Denver",
+        "date": "2013-07-06T00:00:00",
+        "name": "Drums Along the Rockies",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "83.150"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "82.650"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "3",
+            "score": "80.350"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "4",
+            "score": "74.650"
+          },
+          {
+            "corps": "Troopers",
+            "place": "5",
+            "score": "71.550"
+          },
+          {
+            "corps": "The Academy",
+            "place": "6",
+            "score": "68.350"
+          },
+          {
+            "corps": "Cascades",
+            "place": "7",
+            "score": "57.400"
+          }
+        ],
+        "state": "CO"
+      },
+      {
+        "city": "Michigan City",
+        "date": "2013-07-06T00:00:00",
+        "name": "Pageant of Drums",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "79.200"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "2",
+            "score": "78.750"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "3",
+            "score": "75.600"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "4",
+            "score": "72.550"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "5",
+            "score": "72.500"
+          }
+        ],
+        "state": "IN"
+      },
+      {
+        "city": "Casper",
+        "date": "2013-07-05T00:00:00",
+        "name": "Drums Along the Rockies - Casper Edition",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "83.300"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "2",
+            "score": "73.900"
+          },
+          {
+            "corps": "Troopers",
+            "place": "3",
+            "score": "70.600"
+          },
+          {
+            "corps": "Cascades",
+            "place": "4",
+            "score": "59.800"
+          }
+        ],
+        "state": "WY"
+      },
+      {
+        "city": "Lynn",
+        "date": "2013-07-05T00:00:00",
+        "name": "The Beanpot Invitational",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "82.800"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "79.050"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "3",
+            "score": "78.350"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "4",
+            "score": "74.200"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "5",
+            "score": "64.700"
+          }
+        ],
+        "state": "MA"
+      },
+      {
+        "city": "Whitewater",
+        "date": "2013-07-05T00:00:00",
+        "name": "The Whitewater Classic",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "77.500"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "2",
+            "score": "76.300"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "3",
+            "score": "72.900"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "4",
+            "score": "71.450"
+          },
+          {
+            "corps": "Colts",
+            "place": "5",
+            "score": "69.400"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "6",
+            "score": "59.500"
+          }
+        ],
+        "state": "WI"
+      },
+      {
+        "city": "Ogden",
+        "date": "2013-07-03T00:00:00",
+        "name": "Corps Encore",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "83.300"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "82.300"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "3",
+            "score": "80.000"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "4",
+            "score": "73.900"
+          },
+          {
+            "corps": "Cascades",
+            "place": "5",
+            "score": "55.800"
+          }
+        ],
+        "state": "UT"
+      },
+      {
+        "city": "Cedarburg",
+        "date": "2013-07-03T00:00:00",
+        "name": "Rotary Music Festival",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "77.400"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "2",
+            "score": "72.800"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "3",
+            "score": "70.700"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "4",
+            "score": "69.200"
+          },
+          {
+            "corps": "Colts",
+            "place": "5",
+            "score": "68.800"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "6",
+            "score": "58.400"
+          }
+        ],
+        "state": "WI"
+      },
+      {
+        "city": "Bristol",
+        "date": "2013-07-03T00:00:00",
+        "name": "Summer Music Preview",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "82.200"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "2",
+            "score": "77.800"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "3",
+            "score": "77.700"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "4",
+            "score": "73.900"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "5",
+            "score": "61.700"
+          }
+        ],
+        "state": "RI"
+      },
+      {
+        "city": "Boise",
+        "date": "2013-07-02T00:00:00",
+        "name": "Boise Summer Music Games",
+        "results": [
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "1",
+            "score": "77.900"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "2",
+            "score": "72.500"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "3",
+            "score": "64.600"
+          },
+          {
+            "corps": "Cascades",
+            "place": "4",
+            "score": "53.600"
+          }
+        ],
+        "state": "ID"
+      },
+      {
+        "city": "Tri Cities",
+        "date": "2013-07-01T00:00:00",
+        "name": "Drums Along the Columbia",
+        "results": [
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "1",
+            "score": "77.500"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "2",
+            "score": "71.300"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "3",
+            "score": "64.800"
+          },
+          {
+            "corps": "Cascades",
+            "place": "4",
+            "score": "53.100"
+          }
+        ],
+        "state": "WA"
+      },
+      {
+        "city": "Mankato",
+        "date": "2013-07-01T00:00:00",
+        "name": "The Thunder of Drums",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "75.200"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "2",
+            "score": "73.300"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "3",
+            "score": "71.700"
+          },
+          {
+            "corps": "Colts",
+            "place": "4",
+            "score": "69.600"
+          },
+          {
+            "corps": "Troopers",
+            "place": "4",
+            "score": "69.600"
+          }
+        ],
+        "state": "MN"
+      },
+      {
+        "city": "New Haven",
+        "date": "2013-06-30T00:00:00",
+        "name": "Connecticut Drums @ Southern Connecticut State University",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "79.700"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "74.500"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "3",
+            "score": "74.300"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "4",
+            "score": "70.500"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "5",
+            "score": "56.300"
+          }
+        ],
+        "state": "CT"
+      },
+      {
+        "city": "Salem",
+        "date": "2013-06-30T00:00:00",
+        "name": "Music on the Border",
+        "results": [
+          {
+            "corps": "The Cavaliers",
+            "place": "1",
+            "score": "75.400"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "2",
+            "score": "72.100"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "3",
+            "score": "57.500"
+          }
+        ],
+        "state": "WI"
+      },
+      {
+        "city": "Rochester",
+        "date": "2013-06-30T00:00:00",
+        "name": "River City Rhapsody - Rochester",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "74.400"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "2",
+            "score": "70.500"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "3",
+            "score": "70.300"
+          },
+          {
+            "corps": "Troopers",
+            "place": "4",
+            "score": "68.300"
+          },
+          {
+            "corps": "Colts",
+            "place": "5",
+            "score": "66.600"
+          }
+        ],
+        "state": "MN"
+      },
+      {
+        "city": "Riverside",
+        "date": "2013-06-30T00:00:00",
+        "name": "Western Corps Connection",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "81.850"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "80.950"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "3",
+            "score": "70.300"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "4",
+            "score": "67.900"
+          }
+        ],
+        "state": "CA"
+      },
+      {
+        "city": "Renton",
+        "date": "2013-06-29T00:00:00",
+        "name": "Seattle Summer Music Games",
+        "results": [
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "1",
+            "score": "77.200"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "2",
+            "score": "72.100"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "3",
+            "score": "63.800"
+          },
+          {
+            "corps": "Cascades",
+            "place": "4",
+            "score": "49.500"
+          }
+        ],
+        "state": "WA"
+      },
+      {
+        "city": "Quincy",
+        "date": "2013-06-29T00:00:00",
+        "name": "CYO NATIONALS Tribute",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "78.000"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "74.400"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "3",
+            "score": "73.500"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "4",
+            "score": "70.400"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "5",
+            "score": "56.200"
+          }
+        ],
+        "state": "MA"
+      },
+      {
+        "city": "Walnut",
+        "date": "2013-06-29T00:00:00",
+        "name": "Corps at the Crest Walnut",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "81.200"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "80.900"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "3",
+            "score": "70.300"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "4",
+            "score": "67.850"
+          }
+        ],
+        "state": "CA"
+      },
+      {
+        "city": "Madison",
+        "date": "2013-06-29T00:00:00",
+        "name": "Drums on Parade",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "75.100"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "2",
+            "score": "73.800"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "3",
+            "score": "68.400"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "4",
+            "score": "68.300"
+          },
+          {
+            "corps": "Troopers",
+            "place": "5",
+            "score": "68.200"
+          },
+          {
+            "corps": "Colts",
+            "place": "6",
+            "score": "65.500"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "7",
+            "score": "57.900"
+          }
+        ],
+        "state": "WI"
+      },
+      {
+        "city": "Oceanside",
+        "date": "2013-06-28T00:00:00",
+        "name": "Corps at the Crest San Diego",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "80.050"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "2",
+            "score": "69.350"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "3",
+            "score": "66.950"
+          }
+        ],
+        "state": "CA"
+      },
+      {
+        "city": "Muncie",
+        "date": "2013-06-28T00:00:00",
+        "name": "DCI Central Indiana",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "74.600"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "2",
+            "score": "72.900"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "3",
+            "score": "70.800"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "4",
+            "score": "68.400"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "5",
+            "score": "67.800"
+          },
+          {
+            "corps": "Troopers",
+            "place": "6",
+            "score": "67.000"
+          },
+          {
+            "corps": "Colts",
+            "place": "7",
+            "score": "63.800"
+          }
+        ],
+        "state": "IN"
+      },
+      {
+        "city": "Jackson",
+        "date": "2013-06-28T00:00:00",
+        "name": "Drum Corps: An American Tradition",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "77.600"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "73.900"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "3",
+            "score": "73.200"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "4",
+            "score": "69.200"
+          },
+          {
+            "corps": "Jersey Surf",
+            "place": "5",
+            "score": "52.400"
+          }
+        ],
+        "state": "NJ"
+      },
+      {
+        "city": "Tualatin",
+        "date": "2013-06-28T00:00:00",
+        "name": "Drums of Fire",
+        "results": [
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "1",
+            "score": "75.100"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "2",
+            "score": "71.000"
+          },
+          {
+            "corps": "Oregon Crusaders",
+            "place": "3",
+            "score": "63.400"
+          },
+          {
+            "corps": "Cascades",
+            "place": "4",
+            "score": "52.700"
+          }
+        ],
+        "state": "OR"
+      },
+      {
+        "city": "Evansville",
+        "date": "2013-06-26T00:00:00",
+        "name": "Drums on the Ohio",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "75.000"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "2",
+            "score": "72.500"
+          },
+          {
+            "corps": "Troopers",
+            "place": "3",
+            "score": "68.625"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "4",
+            "score": "67.750"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "5",
+            "score": "67.000"
+          },
+          {
+            "corps": "Colts",
+            "place": "6",
+            "score": "65.750"
+          }
+        ],
+        "state": "IN"
+      },
+      {
+        "city": "Pittsburgh",
+        "date": "2013-06-26T00:00:00",
+        "name": "Innovations in Brass: Pittsburgh",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "78.200"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "74.900"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "3",
+            "score": "73.200"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "4",
+            "score": "68.800"
+          }
+        ],
+        "state": "PA"
+      },
+      {
+        "city": "Fairfield",
+        "date": "2013-06-25T00:00:00",
+        "name": "Summer Music Games in Cincinnati",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "79.300"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "2",
+            "score": "75.400"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "3",
+            "score": "73.000"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "4",
+            "score": "70.300"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "5",
+            "score": "70.000"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "6",
+            "score": "65.100"
+          },
+          {
+            "corps": "Troopers",
+            "place": "7",
+            "score": "64.800"
+          }
+        ],
+        "state": "OH"
+      },
+      {
+        "city": "Kalamazoo",
+        "date": "2013-06-25T00:00:00",
+        "name": "Legends Drum Corps Preview",
+        "results": [
+          {
+            "corps": "Blue Stars",
+            "place": "1",
+            "score": "66.300"
+          },
+          {
+            "corps": "Colts",
+            "place": "2",
+            "score": "63.500"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "3",
+            "score": "52.500"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "4",
+            "score": "0.000"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "4",
+            "score": "0.000"
+          }
+        ],
+        "state": "MI"
+      },
+      {
+        "city": "Santa Clara",
+        "date": "2013-06-24T00:00:00",
+        "name": "Pacific Procession",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "77.800"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "2",
+            "score": "75.400"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "3",
+            "score": "64.000"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "4",
+            "score": "62.100"
+          }
+        ],
+        "state": "CA"
+      },
+      {
+        "city": "Bowling Green",
+        "date": "2013-06-23T00:00:00",
+        "name": "Glassmen All-Star Review",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "75.600"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "73.900"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "3",
+            "score": "70.150"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "4",
+            "score": "69.500"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "5",
+            "score": "68.350"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "6",
+            "score": "68.200"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "7",
+            "score": "65.150"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "8",
+            "score": "64.200"
+          },
+          {
+            "corps": "Troopers",
+            "place": "9",
+            "score": "61.500"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "10",
+            "score": "51.500"
+          }
+        ],
+        "state": "OH"
+      },
+      {
+        "city": "Sacramento",
+        "date": "2013-06-23T00:00:00",
+        "name": "Moonlight Classic",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "76.900"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "2",
+            "score": "76.500"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "3",
+            "score": "73.550"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "4",
+            "score": "69.600"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "5",
+            "score": "63.650"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "6",
+            "score": "61.250"
+          }
+        ],
+        "state": "CA"
+      },
+      {
+        "city": "Stanford",
+        "date": "2013-06-22T00:00:00",
+        "name": "DCI West",
+        "results": [
+          {
+            "corps": "Blue Devils",
+            "place": "1",
+            "score": "76.150"
+          },
+          {
+            "corps": "Carolina Crown",
+            "place": "2",
+            "score": "75.450"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "3",
+            "score": "72.600"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "4",
+            "score": "69.050"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "5",
+            "score": "62.350"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "6",
+            "score": "59.700"
+          }
+        ],
+        "state": "CA"
+      },
+      {
+        "city": "Akron",
+        "date": "2013-06-22T00:00:00",
+        "name": "Innovations In Brass",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "74.200"
+          },
+          {
+            "corps": "Bluecoats",
+            "place": "2",
+            "score": "71.150"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "3",
+            "score": "71.100"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "4",
+            "score": "66.500"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "5",
+            "score": "65.500"
+          },
+          {
+            "corps": "Boston Crusaders",
+            "place": "6",
+            "score": "64.300"
+          }
+        ],
+        "state": "OH"
+      },
+      {
+        "city": "Merrillville",
+        "date": "2013-06-22T00:00:00",
+        "name": "Merrillville Music Festival",
+        "results": [
+          {
+            "corps": "Madison Scouts",
+            "place": "1",
+            "score": "69.700"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "2",
+            "score": "64.500"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "3",
+            "score": "63.000"
+          },
+          {
+            "corps": "Troopers",
+            "place": "4",
+            "score": "59.800"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "5",
+            "score": "52.300"
+          }
+        ],
+        "state": "IN"
+      },
+      {
+        "city": "Lexington",
+        "date": "2013-06-21T00:00:00",
+        "name": "Drums in the Bluegrass",
+        "results": [
+          {
+            "corps": "Bluecoats",
+            "place": "1",
+            "score": "70.000"
+          },
+          {
+            "corps": "The Cavaliers",
+            "place": "2",
+            "score": "66.700"
+          },
+          {
+            "corps": "Spirit of Atlanta",
+            "place": "3",
+            "score": "66.100"
+          },
+          {
+            "corps": "Crossmen",
+            "place": "4",
+            "score": "61.700"
+          },
+          {
+            "corps": "Troopers",
+            "place": "5",
+            "score": "59.000"
+          }
+        ],
+        "state": "KY"
+      },
+      {
+        "city": "Clovis",
+        "date": "2013-06-21T00:00:00",
+        "name": "MidCal Champions Showcase",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "74.500"
+          },
+          {
+            "corps": "Blue Devils",
+            "place": "2",
+            "score": "74.350"
+          },
+          {
+            "corps": "Santa Clara Vanguard",
+            "place": "3",
+            "score": "71.150"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "4",
+            "score": "67.000"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "5",
+            "score": "60.750"
+          },
+          {
+            "corps": "Mandarins",
+            "place": "6",
+            "score": "58.050"
+          }
+        ],
+        "state": "CA"
+      },
+      {
+        "city": "Belvidere",
+        "date": "2013-06-21T00:00:00",
+        "name": "Show of Shows",
+        "results": [
+          {
+            "corps": "The Cadets",
+            "place": "1",
+            "score": "74.100"
+          },
+          {
+            "corps": "Phantom Regiment",
+            "place": "2",
+            "score": "71.300"
+          },
+          {
+            "corps": "Madison Scouts",
+            "place": "3",
+            "score": "68.700"
+          },
+          {
+            "corps": "Blue Stars",
+            "place": "4",
+            "score": "63.100"
+          },
+          {
+            "corps": "Pioneer",
+            "place": "5",
+            "score": "51.500"
+          }
+        ],
+        "state": "IL"
+      },
+      {
+        "city": "Mesa",
+        "date": "2013-06-19T00:00:00",
+        "name": "Southwest Corps Connection",
+        "results": [
+          {
+            "corps": "Carolina Crown",
+            "place": "1",
+            "score": "73.200"
+          },
+          {
+            "corps": "Blue Knights",
+            "place": "2",
+            "score": "65.800"
+          },
+          {
+            "corps": "The Academy",
+            "place": "3",
+            "score": "59.700"
+          },
+          {
+            "corps": "Pacific Crest",
+            "place": "4",
+            "score": "57.900"
+          }
+        ],
+        "state": "AZ"
+      }
+    ]
+  },
+  "locations": [
+    "Indianapolis, IN",
+    "Michigan CIty, IN",
+    "Massillon, OH",
+    "Michigan City, IN",
+    "Centerville, OH",
+    "Buffalo, NY",
+    "Pittsburgh, PA",
+    "Allentown, PA",
+    "Allentown PA",
+    "Avon Lake, OH",
+    "Johnsonburg, PA",
+    "Rome, NY",
+    "Lawrence, MA",
+    "Niles, MI",
+    "West Chester, PA",
+    "Warrenton, VA",
+    "Erie, PA",
+    "Spring Valley, IL",
+    "Charleston, WV",
+    "Dublin, OH",
+    "Mason City, IA",
+    "Salem, VA",
+    "Rice Lake, WI",
+    "Atlanta, GA",
+    "Huntsville, AL",
+    "Kalamazoo, MI",
+    "Charlotte, NC",
+    "Murfreesboro, TN",
+    "Opelika, AL",
+    "Little Rock, AR",
+    "Hattiesburg, MS",
+    "Dallas, TX",
+    "Mustang, OK",
+    "Ocean Springs, MS",
+    "Lafayette, LA",
+    "Round Rock, TX",
+    "San Antonio, TX",
+    "Manchester, NH",
+    "Houston, TX",
+    "Denton, TX",
+    "Broken Arrow, OK",
+    "Wichita, KS",
+    "Bentonville, AR",
+    "Olathe, KS",
+    "Lebanon, IL",
+    "DeKalb, IL",
+    "Bellflower, CA",
+    "Minneapolis, MN",
+    "Laguna Hills, CA",
+    "Dubuque, IA",
+    "La Crosse, WI",
+    "Muscatine, IA",
+    "Warrensburg, MO",
+    "Waukee, IA",
+    "Metamora, IL",
+    "Sioux Falls, SD",
+    "Omaha, NE",
+    "Lisle, IL",
+    "Chambersburg, PA",
+    "Pleasant Hill, CA",
+    "Sacramento, CA",
+    "Chester, PA",
+    "Denver, CO",
+    "Casper, WY",
+    "Lynn, MA",
+    "Whitewater, WI",
+    "Ogden, UT",
+    "Cedarburg, WI",
+    "Bristol, RI",
+    "Boise, ID",
+    "Tri Cities, WA",
+    "Mankato, MN",
+    "New Haven, CT",
+    "Salem, WI",
+    "Rochester, MN",
+    "Riverside, CA",
+    "Renton, WA",
+    "Quincy, MA",
+    "Walnut, CA",
+    "Madison, WI",
+    "Oceanside, CA",
+    "Muncie, IN",
+    "Jackson, NJ",
+    "Tualatin, OR",
+    "Evansville, IN",
+    "Fairfield, OH",
+    "Santa Clara, CA",
+    "Bowling Green, OH",
+    "Stanford, CA",
+    "Akron, OH",
+    "Merrillville, IN",
+    "Lexington, KY",
+    "Clovis, CA",
+    "Belvidere, IL",
+    "Mesa, AZ"
+  ]
+}
